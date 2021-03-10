@@ -27,7 +27,6 @@ for post in get_posts('NASA',pages=78):
         
 data= {'Link': Link, 'Text': Text, 'Likes': Likes, 'Comments': Comments, 'Shares': Shares}
 mars= pd.DataFrame(data)
-mars
 
 
 # In[3]:
