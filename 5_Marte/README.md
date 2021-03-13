@@ -17,7 +17,7 @@ Se leyeron todos los registros de la tabla "NASA_posts" y se guardaron en el arc
 Es importante resaltar el evento del pasado 18 de Febrero del año en curso, cuando se confirmo que "El Perseverance" aterrizó exitosamente en el planeta rojo.
 ### - Con PowerBI
 #### Publicaciones y eventos astronomicos de Sky&Telescope
-<img src="https://user-images.githubusercontent.com/66233240/110824920-7ddce800-8261-11eb-98b4-8f29448ec3d3.png" width="150"/><img src="Visualizaciones/AASSky_Graficas.jpg" width="750"/>
+<img src="https://user-images.githubusercontent.com/66233240/110824920-7ddce800-8261-11eb-98b4-8f29448ec3d3.png" width="150"/><img src="Visualizaciones/AASSky_Graficas.jpg" width="800"/><br/>
 **Análisis:** A pesar de los evidentes resultados de la primera gráfica, se puede evidenciar en la gráfica de una linea sombreada titulada "Recuento de publicaciones por Año", como en el rango de Enero-Marzo del 2020 y 2021 respectivamente, la cantidad publicaciones y por ende, avances e intereses astronómicos son mayores en el 2021, por lo cual se puede estimar un año con una creciente respecto al número de publicaciones y eventos de Marte.</br>
 Gracias a la grafica circular, con un análisis exclusivamente del mes de febrero del 2021, se pudo conocer el autor con la mayor cantidad de publicaciones sobre Marte. Investigador con varias publicaciones y gran interes en Marte.<br/>
 La última gráfica estadística es reveladora, ya que representa la relevancia de las categorias de los últimos meses, y como es de conocimiento mundial, las misiones espaciales están en la cima.
