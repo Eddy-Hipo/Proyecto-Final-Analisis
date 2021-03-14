@@ -1,0 +1,22 @@
+{
+  "properties": {
+    "# Likes": {
+      "type": "long"
+    },
+    "# Retweets": {
+      "type": "long"
+    },
+    "Candidato": {
+      "type": "keyword"
+    },
+    "Fecha": {
+      "type": "keyword"
+    },
+    "Tweet": {
+      "type": "text"
+    },
+    "Ubicación (usuario)": {
+      "type": "keyword"
+    }
+  }
+}
