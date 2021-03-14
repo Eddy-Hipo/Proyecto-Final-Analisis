@@ -20,26 +20,16 @@ El archivo contiene el código de logstash para la lectura y escritura de un csv
 ## 3. Visualizaciones y análisis
 Es importante resaltar que el archivo csv contiene información de dos temporadas (1. La temporada antes de las votaciones y 2. La temporada de la presentación definitivia de los resultados.).
 ### - Con Kibana
-#### Grafica de barras por retweets
-![Kibana1](https://user-images.githubusercontent.com/66123679/111060487-3629ac80-846b-11eb-8226-dd8b5bcc49c8.PNG)
-<br/>
-**Análisis:** En la grafica se puede visualizar como la temporada que se antepone a las votaciones, ambs candidatos tienen un algo porcentaje de retweets. Sin embargo dicho porcentaje se decae en la temporada actual pues considerando las dos fechas dominantes del 4 al 8 de marzo se ve un decremento del porcentaje, no obstante, el candidato Lasso sigue por delante del candidado yaku.</br>
-#### Visualización por fechas
+#### Promedio de likes por provincias
+![Kibana1](https://user-images.githubusercontent.com/66123679/111061340-dc2be580-8470-11eb-800c-9f5901bbb643.PNG)<br/>
+**Análisis:** Es de conocimiento general que durante los dias proximos a las votaciones el candidato postulante tiene derecho a realizar su campaña donde se espera ganar el apoyo de las personas en las diferentes provincias, es por esto que en unas provincias el candidato puede recibir mas acogida que en otras. Como vemos en la grafica el candidato Lasso tiene una gran aceptación en algunas provincias que el candidato yaku. </br>
+#### Promedio de likes y retweets por fecha
 ![Kibana2](https://user-images.githubusercontent.com/66123679/111060502-56f20200-846b-11eb-968e-bbf86081820f.PNG)
 <br/>
-**Análisis:** En la grafica se puede apreciar mejor la gran diferencia entre ambos candidatos consdierando la fecha pues Guillermo lasso a pesar de la temporada sigue con alto record de tweets, lo contrario ocurre con yaku pues su popularidad disminuye por las epocas.</br>
-#### Las provincias con mas likes 
-![Kibana3](https://user-images.githubusercontent.com/66123679/111060503-5bb6b600-846b-11eb-83d0-3e9005e5b24f.PNG)
-<br/>
-**Análisis:** Es de conocimiento general que durante los dias proximos a las votaciones el candidato postulante tiene derecho a realizar su campaña donde se espera ganar el apoyo de las personas en las diferentes provincias, es por esto que en unas provincias el candidato puede recibir mas acogida que en otras. Como vemos en la grafica el candidato Lasso tiene una gran aceptación en algunas provincias que el candidato yaku. </br>
-#### Maximo numero de likes y retweets por candidatos
-![Kibana4](https://user-images.githubusercontent.com/66123679/111060505-61140080-846b-11eb-96ae-c200d453304f.PNG)
-<br/>
-**Análisis:** En la grafica se puede aprecias como el candidato lasso tiene una gran ventaja sobre el candidato yaku tanto en likes como en retweets </br>
-#### Promedio de las publicaciones por ubicación
-![Kibana5](https://user-images.githubusercontent.com/66123679/111060509-65401e00-846b-11eb-9d4e-591a62ba0c19.PNG)
-<br/>
-**Análisis:** La grafica de pastel se puede apreciar con mas detenimiento las provincias mas representativas como son Pichincha, Guayaquil, Orellana, Tungurahua y las otras siendo Guayaquil/Guayas la provincia donde se ha dado mas publicaciones. </br>
+**Análisis:** En la grafica de barras se puede apreciar como influye mucho la epoca en la que se recopilan datos pues como vemos para algunos candidatos como en este caso Guillermo Lasso quien tuvo una mayor actividad el lunes 1 de Febreo a diferencia del candidato Yaku Peréz, sin embargo en el periodo de 4 al 8 de marzo su presencia en twitter disminuye, a pesar de eso lasso supera a yaku tanto en likes como retweets</br>
+#### Publicaciones por fecha y ubicación
+![Kibana3](https://user-images.githubusercontent.com/66123679/111061567-05994100-8472-11eb-99c0-dee49db4bfa7.PNG) <br/>
+**Análisis:** La grafica indica la actividad a favor de cada candidato considerando la fecha, se puede ver como Lasso supera en las 5 provincias mas significativas en este analisis que son El oro, Azuay, Cañar, Cotopaxi, Guayas. Lo sorprendente es que en las otras provincias la presencia de yaku se hace mas notoria.</br>
 ### - Con Tableau
 #### Mapa de resultados
  ![Tableau1](https://user-images.githubusercontent.com/66123679/111060511-696c3b80-846b-11eb-894d-3f7bb97aee07.PNG)<br/>
