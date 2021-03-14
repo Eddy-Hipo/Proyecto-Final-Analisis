@@ -24,8 +24,7 @@ Es importante resaltar que el archivo csv contiene información de dos temporada
 ![Kibana1](https://user-images.githubusercontent.com/66123679/111061340-dc2be580-8470-11eb-800c-9f5901bbb643.PNG)<br/>
 **Análisis:** Es de conocimiento general que durante los dias proximos a las votaciones el candidato postulante tiene derecho a realizar su campaña donde se espera ganar el apoyo de las personas en las diferentes provincias, es por esto que en unas provincias el candidato puede recibir mas acogida que en otras. Como vemos en la grafica el candidato Lasso tiene una gran aceptación en algunas provincias que el candidato yaku. </br>
 #### Promedio de likes y retweets por fecha
-![Kibana2](https://user-images.githubusercontent.com/66123679/111060502-56f20200-846b-11eb-968e-bbf86081820f.PNG)
-<br/>
+![Kibana2](https://user-images.githubusercontent.com/66123679/111061663-822c1f80-8472-11eb-83b6-a34f9806b3d8.PNG) <br/>
 **Análisis:** En la grafica de barras se puede apreciar como influye mucho la epoca en la que se recopilan datos pues como vemos para algunos candidatos como en este caso Guillermo Lasso quien tuvo una mayor actividad el lunes 1 de Febreo a diferencia del candidato Yaku Peréz, sin embargo en el periodo de 4 al 8 de marzo su presencia en twitter disminuye, a pesar de eso lasso supera a yaku tanto en likes como retweets</br>
 #### Publicaciones por fecha y ubicación
 ![Kibana3](https://user-images.githubusercontent.com/66123679/111061567-05994100-8472-11eb-99c0-dee49db4bfa7.PNG) <br/>
