@@ -1,6 +1,6 @@
 # Pulso politico por provincias de Ecuador.
 ## 1. Arquitectura
-![alt text](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/2_PulsoPoliticoProvincias/DataLake_Provincias.png)
+![alt text](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/2_PulsoPoliticoProvincias/DataLake_ProvinciasEC.png)
 ## 2. Scripts de extracción, filtrado y exportación de datos
 ### - Script 1 - Tweppy
 #### _(lasso.py)_
