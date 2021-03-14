@@ -3,7 +3,7 @@
 ###
 
 ## 2.     Pulso político por provincias en Ecuador.
-<img src="2_PulsoPoliticoProvincias/DataLake_ProvinciasEC.png"/>
+<img src="2_PulsoPoliticoProvincias/DataLake_ProvinciasEC.png" height="250"/>
 
 ## 3.     Juegos en línea por países.
 ###
@@ -12,4 +12,4 @@
 ###
 
 ## 5.     Eventos y noticias sobre Marte.
-<img src="5_Marte/DataLake_Mars.png" width="550"/>
+<img src="5_Marte/DataLake_Mars.png" height="250"/>
