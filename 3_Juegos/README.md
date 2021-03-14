@@ -2,34 +2,37 @@
 ## 1. Arquitectura
 ![alt text](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/3_Juegos/DataLake_Juegos.png)
 ## 2. Scripts de extracción, filtrado y exportación de datos
+### Kaggle
+#### _(Games.csv)_
+Los datos estáticos se obtuvieron de la página Kaggle (https://www.kaggle.com/sidtwr/videogames-sales-dataset) <br/>
+Los datos descargados en formato CSV no se necesitaron filtrar para  realizar las visualziaciones. Es decir se utilizarán **directamente** en la aplicación RapidMiner.
 ### Tik-Tok Scraping
-#### _(videogamesceo_1609806891401.csv)_
-Se recopilaron todas las publicaciones astronómicas sobre Marte desde Enero del 2020 hasta Marzo del 2021, de la página web Sky&Telescope (https://skyandtelescope.org).<br/>
-Con el objetivo de adquirir registros de datos relacionados con el tema, se implemeto un filtrado donde se extrajeron unicamente las publicaciones cuyo titulo contenía la palabra "Mars". Una vez recopilados los registros, se guardaron en la tabla "AASSky_posts" de la base de datos "mars.db".
-
-tiktok-scraper user videogamesceo -n 300 -t csv
-
-### - Script 1 - Web Scraping
-#### _(DataExtraction_WebsiteAASSky.py)_
-Se recopilaron todas las publicaciones astronómicas sobre Marte desde Enero del 2020 hasta Marzo del 2021, de la página web Sky&Telescope (https://skyandtelescope.org).<br/>
-Con el objetivo de adquirir registros de datos relacionados con el tema, se implemeto un filtrado donde se extrajeron unicamente las publicaciones cuyo titulo contenía la palabra "Mars". Una vez recopilados los registros, se guardaron en la tabla "AASSky_posts" de la base de datos "mars.db".
-### - Script 2 - Facebook Scraper
-#### _(DataExtraction_FBPageNASA.py)_
-Se recopilaron todas las publicaciones sobre Marte de la pagina de facebook de la NASA (https://www.facebook.com/NASA), en un rango de tiempo del: 1 de enero del 2021 hasta el 10 de marzo del 2021.<br/>
-Con el objetivo de adquirir registros de datos relacionados con el tema, se implemeto un filtrado donde se extrajeron unicamente las publicaciones cuyo texto contenía la palabra "Mars". Una vez recopilados los registros, se guardaron en la tabla "NASA_posts" de la base de datos "mars.db".
-### - Script 3 - Exportación a .csv
-#### _(ASSSky_to_csv.py)_
-Se leyeron todos los registros de la tabla "NASA_posts" y se guardaron en el archivo "AASSky_posts.csv", para posteriormete poder desarrollar sus visualizaciones.
-## 3. Visualizaciones y análisis
-Es importante resaltar el evento del pasado 18 de Febrero del año en curso, cuando se confirmo que "El Perseverance" aterrizó exitosamente en el planeta rojo.
-### - Con PowerBI
-#### Publicaciones y eventos astronomicos de Sky&Telescope
-<img src="https://user-images.githubusercontent.com/66233240/110824920-7ddce800-8261-11eb-98b4-8f29448ec3d3.png" width="150"/><img src="Visualizaciones/AASSky_Graficas.jpg" width="800"/><br/>
-**Análisis:** A pesar de los evidentes resultados de la primera gráfica, se puede evidenciar en la gráfica de una linea sombreada titulada "Recuento de publicaciones por Año", como en el rango de Enero-Marzo del 2020 y 2021 respectivamente, la cantidad publicaciones y por ende, avances e intereses astronómicos son mayores en el 2021, por lo cual se puede estimar un año con una creciente respecto al número de publicaciones y eventos de Marte.</br>
-Gracias a la grafica circular, con un análisis exclusivamente del mes de febrero del 2021, se pudo conocer el autor con la mayor cantidad de publicaciones sobre Marte. Investigador con varias publicaciones y gran interes en Marte.<br/>
-La última gráfica estadística es reveladora, ya que representa la relevancia de las categorias de los últimos meses, y como es de conocimiento mundial, las misiones espaciales están en la cima.
-### - Con Matplolib
-#### Publicaciones de la página de la NASA de Facebook
-<img src="Visualizaciones/NASA1.svg" width="310"/> <img src="Visualizaciones/NASA5.svg" width="310"/> <img src="Visualizaciones/NASA3.svg" width="310"/> <img src="Visualizaciones/NASA2.svg" width="310"/> <img src="Visualizaciones/NASA4.svg" width="310"/> <br/>
-**Análisis:** En promedio, las publicaciones sobre Marte en la red social obtienen un mayor número de "Me gustas" en comparacion a otras valoraciones. Sin embargo, en general los numeros máximos de las valoraciones revelan el gran interés que los usuarios exteriorizan a traves de una red social tan informal, como lo es Facebook.<br/>
-El punto crítico de la primera gráfica refleja la aceptación social a nivel global que tuvo el aterrizaje del "Perseverance" en Marte, ya que hace referencia a la publicación de la primera imagen a color enviada por el robot (https://www.facebook.com/NASA/posts/10158994637206772), y en función a los comentarios y publicaciones compartidas, sus puntos críticos corresponden a un video en directo que subio la NASA exponiendo todo el proceso de la misión espacial (https://www.facebook.com/watch/?v=438313177583525), mismo que tuvo miles de comentarios relevantes.
+#### _(videogamesceo.csv)_
+Se recopilaron los datos de las publicaciones de videojuegos del usuario "videogamesceo" (https://www.tiktok.com/@videogamesceo?lang=es) <br/>
+Con el objetivo de adquirir registros de datos relacionados con el tema.
+Para realizar esta tarea se ejecutó el comando: tiktok-scraper user videogamesceo -n 300 -t csv , directamente en la línea de comandos del sistema operativo.
+### - Script 1 - Filtrado de datos de Tik-Tok Scraping
+#### _(filtrado-datos-tiktok.py)_
+Con el objetivo de adquirir registros de datos relacionados con el tema, se implemeto un filtrado donde se extrajeron unicamente las columnas más relevantes como: 
+* Texto 
+* Nombre del autor
+* Fecha de creación
+* Nombre de la música
+* # de compartidos
+* # de comentarios
+* # de reproducciones
+* Hashtags
+Una vez filtrada la información se guardaron en un archivo tipo CSV llamado **(Tik-Tok-filtrado.csv)**
+## 3. Visualizaciones y análisis con la herramienta RapidMiner
+### Juegos Lanzados por Compañia Desarrolladora
+<img src="Visualizaciones/Juegos%20Lanzados%20por%20compañía.png" width="1000"/><br/>
+**Análisis:** La gráfica muestra la cantidad de juegos más jugados desarrollados por cada compañia, teniendo como mejores empresas a Electronic Arts y Sony Computer Entertainment.
+### Juegos más Populares en el Mundo
+<img src="Visualizaciones/Juegos%20más%20popularesen%20el%20mundo.png" width="1000"/><br/>
+**Análisis:** La gráfica muestra al juego preferido por los jugadores alrededor del mundo, dando como resultado que el mejor juego en línea en este momento es Grand Theft Auto V
+### Juegos por Género
+<img src="Visualizaciones/Juegos%20por%20Géneros.png" width="1000"/><br/>
+**Análisis:** La gráfica muestra el género de juego preferido por los usuarios, dando como resultado que los juegos de Acción y Shooter son los juegos que tiene más acogida por los Gamers del mundo.
+### Jugadores por Paises
+<img src="Visualizaciones/Jugadores%20por%20países.png" width="1000"/><br/>
+**Análisis:** La gráfica muestra el númeo de jugadores de un juego en específico por continente, dando como resultado que en Europa se encuentra la mayor cantidad de jugadores para Grand Theft Auto V y FIFA 18.
