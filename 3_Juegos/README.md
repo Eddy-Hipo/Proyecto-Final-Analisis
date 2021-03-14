@@ -3,26 +3,26 @@
 ![alt text](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/3_Juegos/DataLake_Juegos.png)
 ## 2. Scripts de extracción, filtrado y exportación de datos
 ### Kaggle
-#### _(Games.csv)_
+#### _(Games.csv)_ [Archivo de Kaggle](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/3_Juegos/Recopilacion%20y%20almacenamiento%20de%20datos/Games.csv)
 Los datos estáticos se obtuvieron de la página Kaggle (https://www.kaggle.com/sidtwr/videogames-sales-dataset) <br/>
 Los datos descargados en formato CSV no se necesitaron filtrar para  realizar las visualziaciones. Es decir se utilizarán **directamente** en la aplicación RapidMiner.
 ### Tik-Tok Scraping
-#### _(videogamesceo.csv)_
+#### _(videogamesceo.csv)_ [Archivo de Tik-Tok sin filtrar](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/3_Juegos/Recopilacion%20y%20almacenamiento%20de%20datos/videogamesceo/videogamesceo.csv)
 Se recopilaron los datos de las publicaciones de videojuegos del usuario "videogamesceo" (https://www.tiktok.com/@videogamesceo?lang=es) <br/>
 Con el objetivo de adquirir registros de datos relacionados con el tema.
 Para realizar esta tarea se ejecutó el comando: tiktok-scraper user videogamesceo -n 300 -t csv , directamente en la línea de comandos del sistema operativo.
 ### - Script 1 - Filtrado de datos de Tik-Tok Scraping
-#### _(filtrado-datos-tiktok.py)_
+#### _(filtrado-datos-tiktok.py)_ [Script del Filtrado](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/3_Juegos/Recopilacion%20y%20almacenamiento%20de%20datos/videogamesceo/filtrado-datos-tiktok.py)
 Con el objetivo de adquirir registros de datos relacionados con el tema, se implemeto un filtrado donde se extrajeron unicamente las columnas más relevantes como: 
 * Texto 
 * Nombre del autor
 * Fecha de creación
 * Nombre de la música
-* # de compartidos
-* # de comentarios
-* # de reproducciones
+* Número de compartidos
+* Número de comentarios
+* Número de reproducciones
 * Hashtags
-Una vez filtrada la información se guardaron en un archivo tipo CSV llamado **(Tik-Tok-filtrado.csv)**
+Una vez filtrada la información se guardaron en un archivo tipo CSV llamado [Tik-Tok-filtrado](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/3_Juegos/Recopilacion%20y%20almacenamiento%20de%20datos/videogamesceo/Tik-Tok-filtrado.csv)
 ## 3. Visualizaciones y análisis con la herramienta RapidMiner
 ### Juegos Lanzados por Compañia Desarrolladora
 <img src="Visualizaciones/Juegos%20Lanzados%20por%20compañía.png" width="1000"/><br/>
