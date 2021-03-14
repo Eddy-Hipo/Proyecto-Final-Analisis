@@ -2,7 +2,7 @@
 ## 1.     Pulso político en 20 ciudades principales de Ecuador.
 ###
 ## 2.     Pulso político por provincias en Ecuador.
-###
+<img src="2_PulsoPoliticoProvincias/DataLake_Mars.png" width="550"/>
 ## 3.     Juegos en línea por países.
 ###
 ## 4.     Tema definido por el estudiante.
