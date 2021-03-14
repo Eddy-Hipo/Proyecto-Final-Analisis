@@ -3,7 +3,7 @@
 ###
 
 ## 2.     Pulso político por provincias en Ecuador.
-<img src="2_PulsoPoliticoProvincias/DataLake_ProvinciasEC.png" width="750"/>
+<img src="2_PulsoPoliticoProvincias/DataLake_ProvinciasEC.png"/>
 
 ## 3.     Juegos en línea por países.
 ###
