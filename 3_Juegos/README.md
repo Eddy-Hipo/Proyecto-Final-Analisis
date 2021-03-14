@@ -1,7 +1,14 @@
-# Eventos y noticias sobre Marte.
+# Videojuegos en Línea del mundo.
 ## 1. Arquitectura
-![alt text](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/5_Marte/DataLake_Mars.png)
+![alt text](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/3_Juegos/DataLake_Juegos.png)
 ## 2. Scripts de extracción, filtrado y exportación de datos
+### Tik-Tok Scraping
+#### _(videogamesceo_1609806891401.csv)_
+Se recopilaron todas las publicaciones astronómicas sobre Marte desde Enero del 2020 hasta Marzo del 2021, de la página web Sky&Telescope (https://skyandtelescope.org).<br/>
+Con el objetivo de adquirir registros de datos relacionados con el tema, se implemeto un filtrado donde se extrajeron unicamente las publicaciones cuyo titulo contenía la palabra "Mars". Una vez recopilados los registros, se guardaron en la tabla "AASSky_posts" de la base de datos "mars.db".
+
+tiktok-scraper user videogamesceo -n 300 -t csv
+
 ### - Script 1 - Web Scraping
 #### _(DataExtraction_WebsiteAASSky.py)_
 Se recopilaron todas las publicaciones astronómicas sobre Marte desde Enero del 2020 hasta Marzo del 2021, de la página web Sky&Telescope (https://skyandtelescope.org).<br/>
