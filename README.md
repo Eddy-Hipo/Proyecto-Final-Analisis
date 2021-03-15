@@ -1,7 +1,7 @@
 # Proyecto-Final-Analisis
 ## 1.     Pulso político en ciudades de Ecuador.
 ###
-
+<img src="1_PulsoPoliticoCiudades/DataLake_CiudadesEC.png" height="250"/>
 ## 2.     Pulso político por provincias en Ecuador.
 <img src="2_PulsoPoliticoProvincias/DataLake_ProvinciasEC.png" height="250"/>
 
