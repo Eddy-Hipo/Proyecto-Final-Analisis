@@ -6,7 +6,7 @@
 <img src="2_PulsoPoliticoProvincias/DataLake_ProvinciasEC.png" height="250"/>
 
 ## 3.     Juegos en línea por países.
-###
+<img src="3_Juegos/DataLake_Juegos.png" height="250"/>
 
 ## 4.     El COVID-19 en el mundo.
 <img src="4_Covid19/DataLake_COVID.png" height="250"/>
