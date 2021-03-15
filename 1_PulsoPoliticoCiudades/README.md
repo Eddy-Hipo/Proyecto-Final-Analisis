@@ -1,6 +1,6 @@
 # Pulso politico por ciudades de Ecuador.
 ## 1. Arquitectura
-![alt text](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/1_PulsoPoliticoCiudades/DataLake_CiudadesEC.png)
+![alt text](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/1_PulsoPoliticoCiudades/DataLake_Ciudades.png)
 ## 2. Scripts de extracción, filtrado y exportación de datos
 ### - Script 1 - Tweppy
 #### _(arauz.py)_
