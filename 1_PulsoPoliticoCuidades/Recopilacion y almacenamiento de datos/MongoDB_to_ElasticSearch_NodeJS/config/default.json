@@ -1,0 +1,22 @@
+{
+    "elasticsearch": {
+        "url":"http://localhost:",
+        "port":"9200/",
+        "elasticsearchIndices": {
+          "TwitterProyectoArauz": {
+            "index":"ciudades",
+            "type":"CIUDADES",
+            "collectionName":"Ciudades"
+          }
+        }
+    },
+    "mongodb": {
+      "url": "mongodb://",
+      "username":"",
+      "password":"",
+      "server_ip":"127.0.0.1",
+      "local_server_ip":"localhost",
+      "port":"27017",
+      "databaseName":"TwitterProyectoArauz"
+    }
+}
