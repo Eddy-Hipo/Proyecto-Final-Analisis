@@ -31,7 +31,7 @@ node app.js
 ### - Al correr el script ocurre lo siguiente:
 Una vez ejecute el comando en la terminal, se hara uso de la funcion IndexMongodbData la cual se encuentra en el archivo "indexer.js" la cual primero va verificar la conexión al servidor  de MongoDb, y con los parametros enviados procede a leer la colección e identificar el elemento de "created_at"  para formatear la fecha. Posterior a esto modifica la sección de index que maneja elastic y finalmente lo agrega en un vector para subirlo a ElasticSearch.  
 ### - Imagen de referencia
-![alt text](https://raw.githubusercontent.com/Eddy-Hipo/Proyecto-Final-Analisis/main/1_PulsoPoliticoCuidades/Recopilacion%20y%20almacenamiento%20de%20datos/MongoDB_to_ElasticSearch_NodeJS/CapturaDeReferencia.png)
+![alt text](https://raw.githubusercontent.com/Eddy-Hipo/Proyecto-Final-Analisis/main/1_PulsoPoliticoCiudades/Recopilacion%20y%20almacenamiento%20de%20datos/MongoDB_to_ElasticSearch_NodeJS/CapturaDeReferencia.png)
 
 
 
