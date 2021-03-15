@@ -6,7 +6,7 @@
 #### _(arauz.py)_
 Al utilizar el codigo que contiene librerias de python como tweppy y la base de datos mongoDB la cual nose permite exportar la base de datos en un archivo JSON o CSV (Ciudades.csv), se recopilaron tweets desde el 4 al 8 de marzo del presente año, los mismos que muestran opinión acerca del candidato Arauz. Usando como filtro la ubicación con la ayuda de las coordenadas en formato csv obtenidas con Bounding Box, adicionalmente se filtro la palabra clave arauz. 
 ### - Script 2 - Datos de Mongo a Elasticsearch 
-#### _(MongoDB_to_ElasticSearch_NodeJS)_ 
+#### _(Recopilacion y almacenamiento de datos/MongoDB_to_ElasticSearch_NodeJS)_ 
 Se utilizo el siguiente proyecto en el que se recopilan los datos de determinada collección en MongoDb y son enviados a ElasticSearch el proceso detallado esta en el README del proyecto.
 
 ## 3. Visualizaciones y análisis
