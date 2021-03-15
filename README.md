@@ -9,7 +9,7 @@
 ###
 
 ## 4.     El COVID-19 en el mundo.
-###
+<img src="2_PulsoPoliticoProvincias/DataLake_COVID.png" height="250"/>
 
 ## 5.     Eventos y noticias sobre Marte.
 <img src="5_Marte/DataLake_Mars.png" height="250"/>
