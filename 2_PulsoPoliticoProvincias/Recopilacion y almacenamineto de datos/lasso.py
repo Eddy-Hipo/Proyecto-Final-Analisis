@@ -5,10 +5,10 @@ from tweepy import Stream
 from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
 #Conexion a couchddb
-ckey = "N31wuT1bPEiM2cmx8ccu1orxb"
-csecret = "O4avAsvM6g10JCgRzAnq3mv2QvBqve518tB4ix78dT6u3DAtvh"
-atoken = "360193692-rekUZMqpMZFsnVvXovgqCuuVfwtp3aO4gui2O8zl"
-asecret = "BW1PeKHghRdZ8YUxYbizidV043U3P7ysxXJvZk8i6AWJX"
+ckey = ""
+csecret = ""
+atoken = ""
+asecret = ""
 class listener(StreamListener):
     
     def on_data(self, data):
