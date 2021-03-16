@@ -21,7 +21,7 @@ En la seccion de "mongodb" :
 Si en el archivo default.json se ha cambiado el nombre del objeto en elasticsearchIndices que hace referencia a la creación del index en elasticsearch, modificar lo siguiente: 
 En la variables de indexname, indextype y tableName, verificar que se este llamando correctamente a la configuración del archivo config/default.json. 
 
-## 2. Utilizar el proyecto
+## 3. Utilizar el proyecto
 ### - Correr el script
 #### _(En la terminal de su IDE o si tiene la gitBash)_
 Ejecutar el comando:
