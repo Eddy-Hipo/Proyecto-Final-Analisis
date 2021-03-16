@@ -2,19 +2,22 @@
 ## 1. Arquitectura
 ![alt text](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/2_PulsoPoliticoProvincias/DataLake_ProvinciasEC.png)
 ## 2. Scripts de extracción, filtrado y exportación de datos
-### - Script 1 - Tweppy
+### - Script 1 - Logstash
+#### _(BaseCandidatos.csv)_ 
+El archivo representa la base de datos sin trabajar para este tema.
+### - Script 2 - Tweppy
 #### _(lasso.py)_
 Usando codigo y librerias de python como tweppy y la base de datos couchdb (lasso.db) se recopilaron tweets desde el 4 al 8 de marzo del presente año, los mismos que esten a favor de lasso. Usando como palabra clave lasso.
-### - Script 2 - Facebook Scraper
+### - Script 3 - Facebook Scraper
 #### _(yaku.py)_
 Usando codigo y librerias de python como tweppy y la base de datos couchdb (yaku.db) se recopilaron tweets desde el 4 al 8 de marzo del presente año, los mismos que esten a favor de yaku. Usando como palabra clave pachakutik.
-### - Script 3 - Exportación a .csv
+### - Script 4 - Exportación a .csv
 #### _(candidatos.csv)_ _(proyecto.csv)_ 
 Se leyeron todos los registros de couch y se los paso a un csv denominado proyecto, donde se juntan ambas bases de datos.
-### - Script 4 - Elasticsearch
+### - Script 5 - Elasticsearch
 #### _(mapping)_ 
 El archivo contiene el código de mapeo utilizando para trabajar con el csv denominado proyecto en elasticsearch al momento de crear el indice denominado proyecto al igual que el archivo.
-### - Script 5 - Logstash
+### - Script 6 - Logstash
 #### _(logstash.conf)_ 
 El archivo contiene el código de logstash para la lectura y escritura de un csv a elasticsearch levantado localmente.
 ## 3. Visualizaciones y análisis
