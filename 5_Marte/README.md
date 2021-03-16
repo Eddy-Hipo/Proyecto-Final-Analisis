@@ -11,7 +11,7 @@ Con el objetivo de adquirir registros de datos relacionados con el tema, se impl
 Se recopilaron todas las publicaciones sobre Marte de la pagina de facebook de la NASA (https://www.facebook.com/NASA), en un rango de tiempo del: 1 de enero del 2021 hasta el 10 de marzo del 2021.<br/>
 Con el objetivo de adquirir registros de datos relacionados con el tema, se implemeto un filtrado donde se extrajeron unicamente las publicaciones cuyo texto contenía la palabra "Mars". Una vez recopilados los registros, se guardaron en la tabla "NASA_posts" de la base de datos "mars.db".
 ### - Script 3 - Exportación a .csv
-#### _(ASSSky_to_csv.py)_
+#### _(ASSSky_to_csv.py)_ _(ASSSky_posts.csv)_
 Se leyeron todos los registros de la tabla "NASA_posts" y se guardaron en el archivo "AASSky_posts.csv", para posteriormete poder desarrollar sus visualizaciones.
 ## 3. Visualizaciones y análisis
 Es importante resaltar el evento del pasado 18 de Febrero del año en curso, cuando se confirmo que "El Perseverance" aterrizó exitosamente en el planeta rojo.
