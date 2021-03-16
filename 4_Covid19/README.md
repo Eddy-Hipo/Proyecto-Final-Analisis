@@ -2,9 +2,9 @@
 ## 1. Arquitectura
 ![alt text](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/4_Covid19/DataLake_COVID.png)
 ## 2. Scripts de extracción y filtrado de datos
-### - Script 1 - [Extracción de datos](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/4_Covid19/Recopilacion%20y%20almacenamineto%20de%20datos/covid-examen2.py)
+### - Script 1 - (covid-examen2.py) [Extracción de datos](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/4_Covid19/Recopilacion%20y%20almacenamineto%20de%20datos/covid-examen2.py)
 En este Script se detalla la forma de extracción de datos desde Twitter para posteriormente almacenarlos en la Base de Datos de CouchDB.
-### - Script 2 - [Envio de Datos](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/4_Covid19/Recopilacion%20y%20almacenamineto%20de%20datos/logstash.conf)
+### - Script 2 - (logstash.conf) [Envio de Datos](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/4_Covid19/Recopilacion%20y%20almacenamineto%20de%20datos/logstash.conf)
 En este Script se detalla la manera de extraer los datos de CouchDB mediante Logstash y transferirlos a ElastickSearch, dichos datos se utilizarán para las visualizaciones en Kibana.
 ## 3. Visualizaciones y análisis
 ### - Con Kibana
