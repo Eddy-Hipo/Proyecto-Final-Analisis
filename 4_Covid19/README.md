@@ -27,5 +27,6 @@ En este Script se detalla la manera de extraer los datos de CouchDB mediante Log
 ![alt text](https://github.com/Eddy-Hipo/Proyecto-Final-Analisis/blob/main/4_Covid19/Visualizaciones/Principales_lugares_donde_twitean.png)
 
 **Análisis:** La gráfica nos indica de que lugares del mundo están tuiteando temas en torno al covid 19 a nivel mundial, en nuestro caso están lugares como Philadelphia, Nigeria, Venezuela, New York.
+
 **En conclusion:** los datos recopilados nos permiten tener una vista general de cómo está el tema del covid a nivel mundial, si bien se está hablando mayoritariamente en el habla inglesa. Los datos referentes a locación nos hacen tomar en cuenta que países latinoamericanos como Venezuela están hablando del tema pues ciertos países no tienen planes de vacunación inmediatos para su población. 
 
