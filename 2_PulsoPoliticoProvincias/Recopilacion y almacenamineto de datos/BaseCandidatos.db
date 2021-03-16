@@ -1,0 +1,1926 @@
+id"1367696815651426306"
+{
+ "id": "1367696815651426306",
+ "key": "1367696815651426306",
+ "value": {
+  "rev": "1-c341579a4e5d6d78269409e86a2376ce"
+ },
+ "doc": {
+  "_id": "1367696815651426306",
+  "_rev": "1-c341579a4e5d6d78269409e86a2376ce",
+  "created_at": "Fri Mar 05 04:41:46 +0000 2021",
+  "id": 1367696815651426300,
+  "id_str": "1367696815651426306",
+  "text": "@IsaR2019 @patriotaEcuador @MashiRafael @LassoGuillermo Siguiendo\n👍👍👍",
+  "display_text_range": [
+   56,
+   69
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1367633886398861300,
+  "in_reply_to_status_id_str": "1367633886398861312",
+  "in_reply_to_user_id": 98924221,
+  "in_reply_to_user_id_str": "98924221",
+  "in_reply_to_screen_name": "IsaR2019",
+  "user": {
+   "id": 1250949991172104200,
+   "id_str": "1250949991172104193",
+   "name": "César Terán Pacheco",
+   "screen_name": "CESARTERANPACH1",
+   "location": "Quito, Ecuador",
+   "url": null,
+   "description": null,
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 282,
+   "friends_count": 690,
+   "listed_count": 0,
+   "favourites_count": 3899,
+   "statuses_count": 3732,
+   "created_at": "Fri Apr 17 00:52:08 +0000 2020",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": "",
+   "profile_background_image_url_https": "",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1280202870504243200/73swd-xA_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280202870504243200/73swd-xA_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250949991172104193/1587146952",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+   "id": "0177bc687a9ac697",
+   "url": "https://api.twitter.com/1.1/geo/id/0177bc687a9ac697.json",
+   "place_type": "city",
+   "name": "Quito",
+   "full_name": "Quito, Ecuador",
+   "country_code": "EC",
+   "country": "Ecuador",
+   "bounding_box": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -78.948466,
+       -0.588618
+      ],
+      [
+       -78.948466,
+       0.255477
+      ],
+      [
+       -78.164897,
+       0.255477
+      ],
+      [
+       -78.164897,
+       -0.588618
+      ]
+     ]
+    ]
+   },
+   "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "IsaR2019",
+     "name": "IsaR 👠👠",
+     "id": 98924221,
+     "id_str": "98924221",
+     "indices": [
+      0,
+      9
+     ]
+    },
+    {
+     "screen_name": "patriotaEcuador",
+     "name": "🇪🇨 Patriota Ecuador 🇪🇨",
+     "id": 27009968,
+     "id_str": "27009968",
+     "indices": [
+      10,
+      26
+     ]
+    },
+    {
+     "screen_name": "MashiRafael",
+     "name": "Rafael Correa",
+     "id": 209780362,
+     "id_str": "209780362",
+     "indices": [
+      27,
+      39
+     ]
+    },
+    {
+     "screen_name": "LassoGuillermo",
+     "name": "Guillermo Lasso",
+     "id": 300390462,
+     "id_str": "300390462",
+     "indices": [
+      40,
+      55
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1614919306086"
+ }
+}
+id"1367697424681172992"
+{
+ "id": "1367697424681172992",
+ "key": "1367697424681172992",
+ "value": {
+  "rev": "1-43a907e3db0bfef9db71435e4e290c0b"
+ },
+ "doc": {
+  "_id": "1367697424681172992",
+  "_rev": "1-43a907e3db0bfef9db71435e4e290c0b",
+  "created_at": "Fri Mar 05 04:44:11 +0000 2021",
+  "id": 1367697424681173000,
+  "id_str": "1367697424681172992",
+  "text": "@rodavec65 @isabel_noboa @RafaelCompte @LassoGuillermo Medio complicado que el Banco Mundial hable sobrenlos acuerdos entre privados",
+  "display_text_range": [
+   55,
+   132
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1367508121829187600,
+  "in_reply_to_status_id_str": "1367508121829187589",
+  "in_reply_to_user_id": 116290371,
+  "in_reply_to_user_id_str": "116290371",
+  "in_reply_to_screen_name": "rodavec65",
+  "user": {
+   "id": 72988204,
+   "id_str": "72988204",
+   "name": "Carlos Vasconez S.",
+   "screen_name": "carlosvasconezs",
+   "location": "-1.234492,-78.630814",
+   "url": null,
+   "description": "Abogado, Político, Crítico, Audiofilo, Vinilo Adicto",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 281,
+   "friends_count": 359,
+   "listed_count": 0,
+   "favourites_count": 5027,
+   "statuses_count": 4796,
+   "created_at": "Wed Sep 09 23:55:30 +0000 2009",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1220175907236782080/D2raNvTv_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1220175907236782080/D2raNvTv_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/72988204/1579747581",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+   "id": "010b607c420a4ba7",
+   "url": "https://api.twitter.com/1.1/geo/id/010b607c420a4ba7.json",
+   "place_type": "city",
+   "name": "Ambato",
+   "full_name": "Ambato, Ecuador",
+   "country_code": "EC",
+   "country": "Ecuador",
+   "bounding_box": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -78.938045,
+       -1.471582
+      ],
+      [
+       -78.938045,
+       -1.109947
+      ],
+      [
+       -78.53671,
+       -1.109947
+      ],
+      [
+       -78.53671,
+       -1.471582
+      ]
+     ]
+    ]
+   },
+   "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "rodavec65",
+     "name": "Rod AV",
+     "id": 116290371,
+     "id_str": "116290371",
+     "indices": [
+      0,
+      10
+     ]
+    },
+    {
+     "screen_name": "isabel_noboa",
+     "name": "IsabelCG",
+     "id": 335455850,
+     "id_str": "335455850",
+     "indices": [
+      11,
+      24
+     ]
+    },
+    {
+     "screen_name": "RafaelCompte",
+     "name": "Rafael Compte",
+     "id": 871815418540937200,
+     "id_str": "871815418540937217",
+     "indices": [
+      25,
+      38
+     ]
+    },
+    {
+     "screen_name": "LassoGuillermo",
+     "name": "Guillermo Lasso",
+     "id": 300390462,
+     "id_str": "300390462",
+     "indices": [
+      39,
+      54
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1614919451290"
+ }
+}
+id"1367697435334746112"
+{
+ "id": "1367697435334746112",
+ "key": "1367697435334746112",
+ "value": {
+  "rev": "1-a0e270a54c221dec77b6b66493f54094"
+ },
+ "doc": {
+  "_id": "1367697435334746112",
+  "_rev": "1-a0e270a54c221dec77b6b66493f54094",
+  "created_at": "Fri Mar 05 04:44:13 +0000 2021",
+  "id": 1367697435334746000,
+  "id_str": "1367697435334746112",
+  "text": "Aquí casual @LassoGuillermo viendo al mejor presidente de todos los tiempos @MashiRafael https://t.co/jkVJJHUMBq",
+  "display_text_range": [
+   0,
+   88
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 876330686,
+   "id_str": "876330686",
+   "name": "#ElBinomioDeLaEsperanza",
+   "screen_name": "YaTenemosPRESI",
+   "location": "Ecuador",
+   "url": null,
+   "description": "#ElBinomioDelaEsperanza\n\n#ARecuperarLaPatria\n#ArauzRabascall #QueremosARafael\n#ContigoRafael",
+   "translator_type": "regular",
+   "protected": false,
+   "verified": true,
+   "followers_count": 50923,
+   "friends_count": 303,
+   "listed_count": 92,
+   "favourites_count": 2084,
+   "statuses_count": 51896,
+   "created_at": "Fri Oct 12 20:07:58 +0000 2012",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "D2DE5A",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "098BC7",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/981349320195756033/E8m56Gsq_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/981349320195756033/E8m56Gsq_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/876330686/1606702727",
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+   "id": "0114966a7365a447",
+   "url": "https://api.twitter.com/1.1/geo/id/0114966a7365a447.json",
+   "place_type": "city",
+   "name": "Portoviejo",
+   "full_name": "Portoviejo, Ecuador",
+   "country_code": "EC",
+   "country": "Ecuador",
+   "bounding_box": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -80.584882,
+       -1.20099
+      ],
+      [
+       -80.584882,
+       -0.796815
+      ],
+      [
+       -80.010928,
+       -0.796815
+      ],
+      [
+       -80.010928,
+       -1.20099
+      ]
+     ]
+    ]
+   },
+   "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "LassoGuillermo",
+     "name": "Guillermo Lasso",
+     "id": 300390462,
+     "id_str": "300390462",
+     "indices": [
+      12,
+      27
+     ]
+    },
+    {
+     "screen_name": "MashiRafael",
+     "name": "Rafael Correa",
+     "id": 209780362,
+     "id_str": "209780362",
+     "indices": [
+      76,
+      88
+     ]
+    }
+   ],
+   "symbols": [],
+   "media": [
+    {
+     "id": 1367697398911406000,
+     "id_str": "1367697398911406081",
+     "indices": [
+      89,
+      112
+     ],
+     "additional_media_info": {
+      "monetizable": false
+     },
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1367697398911406081/pu/img/TE7qiYKDTENOfNCJ.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1367697398911406081/pu/img/TE7qiYKDTENOfNCJ.jpg",
+     "url": "https://t.co/jkVJJHUMBq",
+     "display_url": "pic.twitter.com/jkVJJHUMBq",
+     "expanded_url": "https://twitter.com/YaTenemosPRESI/status/1367697435334746112/video/1",
+     "type": "photo",
+     "sizes": {
+      "large": {
+       "w": 480,
+       "h": 852,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 480,
+       "h": 852,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1367697398911406000,
+     "id_str": "1367697398911406081",
+     "indices": [
+      89,
+      112
+     ],
+     "additional_media_info": {
+      "monetizable": false
+     },
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1367697398911406081/pu/img/TE7qiYKDTENOfNCJ.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1367697398911406081/pu/img/TE7qiYKDTENOfNCJ.jpg",
+     "url": "https://t.co/jkVJJHUMBq",
+     "display_url": "pic.twitter.com/jkVJJHUMBq",
+     "expanded_url": "https://twitter.com/YaTenemosPRESI/status/1367697435334746112/video/1",
+     "type": "video",
+     "video_info": {
+      "aspect_ratio": [
+       40,
+       71
+      ],
+      "duration_millis": 44960,
+      "variants": [
+       {
+        "bitrate": 950000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1367697398911406081/pu/vid/480x852/mSZJ5s2g4cjPC8VP.mp4?tag=12"
+       },
+       {
+        "bitrate": 632000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1367697398911406081/pu/vid/320x568/wYjcnEU_AlRvdLMV.mp4?tag=12"
+       },
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/ext_tw_video/1367697398911406081/pu/pl/uWkcZrn4gyywc2US.m3u8?tag=12"
+       }
+      ]
+     },
+     "sizes": {
+      "large": {
+       "w": 480,
+       "h": 852,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 383,
+       "h": 680,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 480,
+       "h": 852,
+       "resize": "fit"
+      }
+     }
+    }
+   ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1614919453830"
+ }
+}
+id"1367697748762517508"
+{
+ "id": "1367697748762517508",
+ "key": "1367697748762517508",
+ "value": {
+  "rev": "1-bcbae1f642e281f2f595776c4e82aa2e"
+ },
+ "doc": {
+  "_id": "1367697748762517508",
+  "_rev": "1-bcbae1f642e281f2f595776c4e82aa2e",
+  "created_at": "Fri Mar 05 04:45:28 +0000 2021",
+  "id": 1367697748762517500,
+  "id_str": "1367697748762517508",
+  "text": "@experten14 @CarlosNavarroC2 @MashiRafael @LassoGuillermo Siguiendo\n👍👍👍",
+  "display_text_range": [
+   58,
+   71
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1367602067880243200,
+  "in_reply_to_status_id_str": "1367602067880243200",
+  "in_reply_to_user_id": 51975109,
+  "in_reply_to_user_id_str": "51975109",
+  "in_reply_to_screen_name": "experten14",
+  "user": {
+   "id": 1250949991172104200,
+   "id_str": "1250949991172104193",
+   "name": "César Terán Pacheco",
+   "screen_name": "CESARTERANPACH1",
+   "location": "Quito, Ecuador",
+   "url": null,
+   "description": null,
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 282,
+   "friends_count": 690,
+   "listed_count": 0,
+   "favourites_count": 3899,
+   "statuses_count": 3734,
+   "created_at": "Fri Apr 17 00:52:08 +0000 2020",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": "",
+   "profile_background_image_url_https": "",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1280202870504243200/73swd-xA_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280202870504243200/73swd-xA_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1250949991172104193/1587146952",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+   "id": "0177bc687a9ac697",
+   "url": "https://api.twitter.com/1.1/geo/id/0177bc687a9ac697.json",
+   "place_type": "city",
+   "name": "Quito",
+   "full_name": "Quito, Ecuador",
+   "country_code": "EC",
+   "country": "Ecuador",
+   "bounding_box": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -78.948466,
+       -0.588618
+      ],
+      [
+       -78.948466,
+       0.255477
+      ],
+      [
+       -78.164897,
+       0.255477
+      ],
+      [
+       -78.164897,
+       -0.588618
+      ]
+     ]
+    ]
+   },
+   "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "experten14",
+     "name": "Iceman",
+     "id": 51975109,
+     "id_str": "51975109",
+     "indices": [
+      0,
+      11
+     ]
+    },
+    {
+     "screen_name": "CarlosNavarroC2",
+     "name": "Carlos NavarroCedeno",
+     "id": 753675390,
+     "id_str": "753675390",
+     "indices": [
+      12,
+      28
+     ]
+    },
+    {
+     "screen_name": "MashiRafael",
+     "name": "Rafael Correa",
+     "id": 209780362,
+     "id_str": "209780362",
+     "indices": [
+      29,
+      41
+     ]
+    },
+    {
+     "screen_name": "LassoGuillermo",
+     "name": "Guillermo Lasso",
+     "id": 300390462,
+     "id_str": "300390462",
+     "indices": [
+      42,
+      57
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1614919528557"
+ }
+}
+{
+ "id": "1367945576583684098",
+ "key": "1367945576583684098",
+ "value": {
+  "rev": "1-706df5ea91ba61046521326998582ac0"
+ },
+ "doc": {
+  "_id": "1367945576583684098",
+  "_rev": "1-706df5ea91ba61046521326998582ac0",
+  "created_at": "Fri Mar 05 21:10:15 +0000 2021",
+  "id": 1367945576583684000,
+  "id_str": "1367945576583684098",
+  "text": "@manuelapicq Sin embargo hay sectores de originarios como pachakutik que le hacen el juego a la derecha y a las fue… https://t.co/zuOafKZEIm",
+  "display_text_range": [
+   13,
+   140
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1367662591523295200,
+  "in_reply_to_status_id_str": "1367662591523295241",
+  "in_reply_to_user_id": 304177402,
+  "in_reply_to_user_id_str": "304177402",
+  "in_reply_to_screen_name": "manuelapicq",
+  "user": {
+   "id": 271622471,
+   "id_str": "271622471",
+   "name": "geo chambers",
+   "screen_name": "geochambers",
+   "location": "Ecuador, paraiso en la tierra",
+   "url": null,
+   "description": "abogado, nacido en Guayaquil, combatiente eterno contra lo injusto y el desorden, soldado anonimo de la Revolucion Ciudadana",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 251,
+   "friends_count": 247,
+   "listed_count": 2,
+   "favourites_count": 5615,
+   "statuses_count": 8613,
+   "created_at": "Thu Mar 24 21:50:02 +0000 2011",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1706354918/Abogado_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1706354918/Abogado_normal.jpg",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+   "id": "009924a469d7ace1",
+   "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+   "place_type": "city",
+   "name": "Guayaquil",
+   "full_name": "Guayaquil, Ecuador",
+   "country_code": "EC",
+   "country": "Ecuador",
+   "bounding_box": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -80.467605,
+       -3.063716
+      ],
+      [
+       -80.467605,
+       -1.962274
+      ],
+      [
+       -79.714781,
+       -1.962274
+      ],
+      [
+       -79.714781,
+       -3.063716
+      ]
+     ]
+    ]
+   },
+   "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+   "full_text": "@manuelapicq Sin embargo hay sectores de originarios como pachakutik que le hacen el juego a la derecha y a las fuerzas más oscuras pregonando que prefieren al banquero antes que Revolución Ciudadana que abrió caminos para que los hermanos indígenas se incorporen al proceso nacional",
+   "display_text_range": [
+    13,
+    283
+   ],
+   "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+     {
+      "screen_name": "manuelapicq",
+      "name": "Manuela Picq",
+      "id": 304177402,
+      "id_str": "304177402",
+      "indices": [
+       0,
+       12
+      ]
+     }
+    ],
+    "symbols": []
+   }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [
+    {
+     "url": "https://t.co/zuOafKZEIm",
+     "expanded_url": "https://twitter.com/i/web/status/1367945576583684098",
+     "display_url": "twitter.com/i/web/status/1…",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "manuelapicq",
+     "name": "Manuela Picq",
+     "id": 304177402,
+     "id_str": "304177402",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1614978615314"
+ }
+}
+id"1368029717476032512"
+{
+ "id": "1368029717476032512",
+ "key": "1368029717476032512",
+ "value": {
+  "rev": "1-d5acd3df42d76c78df2452c7351bf70a"
+ },
+ "doc": {
+  "_id": "1368029717476032512",
+  "_rev": "1-d5acd3df42d76c78df2452c7351bf70a",
+  "created_at": "Sat Mar 06 02:44:36 +0000 2021",
+  "id": 1368029717476032500,
+  "id_str": "1368029717476032512",
+  "text": "A propósito de la respuesta de #Pachakutik contra @AnderssonBoscan y @luisevivanco",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 84429784,
+   "id_str": "84429784",
+   "name": "Javier Montenegro",
+   "screen_name": "fj_montenegro",
+   "location": "Quito, Ecuador",
+   "url": "https://www.expreso.ec/tag/mente-positiva",
+   "description": "periodista.",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 1227,
+   "friends_count": 130,
+   "listed_count": 27,
+   "favourites_count": 836,
+   "statuses_count": 6542,
+   "created_at": "Thu Oct 22 21:35:49 +0000 2009",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": true,
+   "profile_link_color": "1B95E0",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "665A66",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1358172753053036552/rYUgYdYt_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1358172753053036552/rYUgYdYt_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/84429784/1612651714",
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+   "id": "0177bc687a9ac697",
+   "url": "https://api.twitter.com/1.1/geo/id/0177bc687a9ac697.json",
+   "place_type": "city",
+   "name": "Quito",
+   "full_name": "Quito, Ecuador",
+   "country_code": "EC",
+   "country": "Ecuador",
+   "bounding_box": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -78.948466,
+       -0.588618
+      ],
+      [
+       -78.948466,
+       0.255477
+      ],
+      [
+       -78.164897,
+       0.255477
+      ],
+      [
+       -78.164897,
+       -0.588618
+      ]
+     ]
+    ]
+   },
+   "attributes": {}
+  },
+  "contributors": null,
+  "quoted_status_id": 1367973965466108000,
+  "quoted_status_id_str": "1367973965466107911",
+  "quoted_status": {
+   "created_at": "Fri Mar 05 23:03:03 +0000 2021",
+   "id": 1367973965466108000,
+   "id_str": "1367973965466107911",
+   "text": "La última carta del partido político sobre la reunión entre Yaku Pérez y el juez del Tribunal Contencioso Electoral… https://t.co/8pxPfkYqi7",
+   "source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 35047698,
+    "id_str": "35047698",
+    "name": "Diario Expreso",
+    "screen_name": "Expresoec",
+    "location": "Guayaquil",
+    "url": "http://www.expreso.ec",
+    "description": "Diario Expreso de Guayaquil. Información sobre el acontecer local, nacional e internacional: ciudad, política, economía, deportes, ocio y buena vida.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 814991,
+    "friends_count": 568,
+    "listed_count": 1778,
+    "favourites_count": 1467,
+    "statuses_count": 177041,
+    "created_at": "Fri Apr 24 21:33:44 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1277A3",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1236878925856415745/zjJIz_c__normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236878925856415745/zjJIz_c__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/35047698/1605050554",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+    "full_text": "La última carta del partido político sobre la reunión entre Yaku Pérez y el juez del Tribunal Contencioso Electoral (TCE), Ángel Torres, es solo una muestra de la reacción ofensiva que caracteriza a la organización. https://t.co/6iFtLHo0k1",
+    "display_text_range": [
+     0,
+     239
+    ],
+    "entities": {
+     "hashtags": [],
+     "urls": [
+      {
+       "url": "https://t.co/6iFtLHo0k1",
+       "expanded_url": "https://www.expreso.ec/actualidad/pachakutik-prefiere-atacar-trata-lidiar-prensa-99996.html",
+       "display_url": "expreso.ec/actualidad/pac…",
+       "indices": [
+        216,
+        239
+       ]
+      }
+     ],
+     "user_mentions": [],
+     "symbols": []
+    }
+   },
+   "quote_count": 2,
+   "reply_count": 2,
+   "retweet_count": 8,
+   "favorite_count": 21,
+   "entities": {
+    "hashtags": [],
+    "urls": [
+     {
+      "url": "https://t.co/8pxPfkYqi7",
+      "expanded_url": "https://twitter.com/i/web/status/1367973965466107911",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "quoted_status_permalink": {
+   "url": "https://t.co/0QqXDCbUTu",
+   "expanded": "https://twitter.com/expresoec/status/1367973965466107911",
+   "display": "twitter.com/expresoec/stat…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "Pachakutik",
+     "indices": [
+      31,
+      42
+     ]
+    }
+   ],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "AnderssonBoscan",
+     "name": "Andersson Boscán",
+     "id": 142154133,
+     "id_str": "142154133",
+     "indices": [
+      50,
+      66
+     ]
+    },
+    {
+     "screen_name": "luisevivanco",
+     "name": "Luis Eduardo Vivanco",
+     "id": 125399079,
+     "id_str": "125399079",
+     "indices": [
+      69,
+      82
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1614998676066"
+ }
+}
+id"1368031771821043714"
+{
+ "id": "1368031771821043714",
+ "key": "1368031771821043714",
+ "value": {
+  "rev": "1-ed99a023252db5731f7e24f77637ecad"
+ },
+ "doc": {
+  "_id": "1368031771821043714",
+  "_rev": "1-ed99a023252db5731f7e24f77637ecad",
+  "created_at": "Sat Mar 06 02:52:45 +0000 2021",
+  "id": 1368031771821043700,
+  "id_str": "1368031771821043714",
+  "text": "Atender señores @yakuperezg @manuelapicq @marlon_santi @PKnacional18 @PachakutikMov",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 550670536,
+   "id_str": "550670536",
+   "name": "Alejandro Criollo",
+   "screen_name": "AlejandroCriol2",
+   "location": "Vivo en Macas-MS. Ecuador",
+   "url": "http://www.mia-sonovision.com",
+   "description": "Azuay-Cuencano: Actividad #Comunicador_Social Radio Mía Regional y Sonovisión.",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 863,
+   "friends_count": 1275,
+   "listed_count": 13,
+   "favourites_count": 78483,
+   "statuses_count": 32760,
+   "created_at": "Wed Apr 11 03:39:25 +0000 2012",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "131516",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+   "profile_background_tile": true,
+   "profile_link_color": "009999",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "EFEFEF",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/857236241842098176/bENU39pE_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/857236241842098176/bENU39pE_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/550670536/1493215959",
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+   "id": "01e1329c05c26c7c",
+   "url": "https://api.twitter.com/1.1/geo/id/01e1329c05c26c7c.json",
+   "place_type": "city",
+   "name": "Huamboya",
+   "full_name": "Huamboya, Ecuador",
+   "country_code": "EC",
+   "country": "Ecuador",
+   "bounding_box": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -78.192647,
+       -2.119877
+      ],
+      [
+       -78.192647,
+       -1.849742
+      ],
+      [
+       -77.775189,
+       -1.849742
+      ],
+      [
+       -77.775189,
+       -2.119877
+      ]
+     ]
+    ]
+   },
+   "attributes": {}
+  },
+  "contributors": null,
+  "quoted_status_id": 1367864659550871600,
+  "quoted_status_id_str": "1367864659550871552",
+  "quoted_status": {
+   "created_at": "Fri Mar 05 15:48:43 +0000 2021",
+   "id": 1367864659550871600,
+   "id_str": "1367864659550871552",
+   "text": "Mi conclusión sobre el saludo casual: \n¿Qué pasó con la cacareada transparencia? ¿Yaku? ¿Manuela? ¿Santi? https://t.co/d4rUwEyWJU",
+   "display_text_range": [
+    0,
+    105
+   ],
+   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 142154133,
+    "id_str": "142154133",
+    "name": "Andersson Boscán",
+    "screen_name": "AnderssonBoscan",
+    "location": "anderssonboscan@gmail.com",
+    "url": "http://www.laposta.ec",
+    "description": "Más periodista que ser humano.\nEcuador - Venezuela\n@LaPosta_Ecu",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 145118,
+    "friends_count": 1275,
+    "listed_count": 274,
+    "favourites_count": 15609,
+    "statuses_count": 32841,
+    "created_at": "Mon May 10 03:37:39 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/982318770059448320/bMIDMMbT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/982318770059448320/bMIDMMbT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/142154133/1535386601",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 74,
+   "reply_count": 166,
+   "retweet_count": 823,
+   "favorite_count": 2183,
+   "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+     {
+      "id": 1367864489132122000,
+      "id_str": "1367864489132122117",
+      "indices": [
+       106,
+       129
+      ],
+      "additional_media_info": {
+       "monetizable": false
+      },
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1367864489132122117/pu/img/qB0XHzrfNQEbCq4d.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1367864489132122117/pu/img/qB0XHzrfNQEbCq4d.jpg",
+      "url": "https://t.co/d4rUwEyWJU",
+      "display_url": "pic.twitter.com/d4rUwEyWJU",
+      "expanded_url": "https://twitter.com/AnderssonBoscan/status/1367864659550871552/video/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 675,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 680,
+        "h": 383,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1280,
+        "h": 720,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "extended_entities": {
+    "media": [
+     {
+      "id": 1367864489132122000,
+      "id_str": "1367864489132122117",
+      "indices": [
+       106,
+       129
+      ],
+      "additional_media_info": {
+       "monetizable": false
+      },
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1367864489132122117/pu/img/qB0XHzrfNQEbCq4d.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1367864489132122117/pu/img/qB0XHzrfNQEbCq4d.jpg",
+      "url": "https://t.co/d4rUwEyWJU",
+      "display_url": "pic.twitter.com/d4rUwEyWJU",
+      "expanded_url": "https://twitter.com/AnderssonBoscan/status/1367864659550871552/video/1",
+      "type": "video",
+      "video_info": {
+       "aspect_ratio": [
+        16,
+        9
+       ],
+       "duration_millis": 134633,
+       "variants": [
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/ext_tw_video/1367864489132122117/pu/pl/hSshCvA3PEYUuo1H.m3u8?tag=12"
+        },
+        {
+         "bitrate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/ext_tw_video/1367864489132122117/pu/vid/640x360/3PO-RrmkZwPvv8Cn.mp4?tag=12"
+        },
+        {
+         "bitrate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/ext_tw_video/1367864489132122117/pu/vid/1280x720/jo0oGP-wFCbtZb_X.mp4?tag=12"
+        },
+        {
+         "bitrate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/ext_tw_video/1367864489132122117/pu/vid/480x270/EAEKhX36MBwq272v.mp4?tag=12"
+        }
+       ]
+      },
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 675,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 680,
+        "h": 383,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1280,
+        "h": 720,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "quoted_status_permalink": {
+   "url": "https://t.co/Yy6vaNB4li",
+   "expanded": "https://twitter.com/AnderssonBoscan/status/1367864659550871552",
+   "display": "twitter.com/AnderssonBosca…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "yakuperezg",
+     "name": "Yaku Pérez Guartambel",
+     "id": 557238227,
+     "id_str": "557238227",
+     "indices": [
+      16,
+      27
+     ]
+    },
+    {
+     "screen_name": "manuelapicq",
+     "name": "Manuela Picq",
+     "id": 304177402,
+     "id_str": "304177402",
+     "indices": [
+      28,
+      40
+     ]
+    },
+    {
+     "screen_name": "marlon_santi",
+     "name": "Marlon Santi",
+     "id": 257530732,
+     "id_str": "257530732",
+     "indices": [
+      41,
+      54
+     ]
+    },
+    {
+     "screen_name": "PKnacional18",
+     "name": "PACHAKUTIK NACIONAL",
+     "id": 728353894829559800,
+     "id_str": "728353894829559810",
+     "indices": [
+      55,
+      68
+     ]
+    },
+    {
+     "screen_name": "PachakutikMov",
+     "name": "MovimientoPachakutik",
+     "id": 1101386803,
+     "id_str": "1101386803",
+     "indices": [
+      69,
+      83
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1614999165860"
+ }
+}
+Candidato;Tweet;Fecha;# Retweets;# Likes;UbicaciÃ³n (usuario)
+Guillermo Lasso;RT @FaustoCoboM3: @anabella2586 @Cbrapo7 ...el 28% que votamos a favor de LASSO en la primera vuelta de ELECCIONES 2017, lo hicimos con laâ€¦;Sun Jan 31 ;2;4;Pichincha, Ecuador
+Guillermo Lasso;RT @llpesantes: Este gerente de ECUATRANDIEGOLARA  debe ser enjuiciado por los seÃ±ores de derechos humano pues este Sr piensa que puede ordâ€¦;Sun Jan 31 ;3;3;Manabi, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: @CesarMongeO Mientras LASSO propone fortalecer a la FUERZA PÃšBLICA en su lucha contra la delincuencia, narcotrÃ¡fico y terâ€¦;Sun Jan 31 ;7;8;Pichincha, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: @AndrsValarezo6 @Incansable1962 @Patrici40930366 @marcelomolina17 @ivonaro @DejemosM @ratael6661 @Fernand80368264 @fnix91â€¦;Sun Jan 31 ;15;22;Pichincha, Ecuador
+Guillermo Lasso;RT @Seba_Gonza90: #VidalPresidente Creo que es momento de unidad, y de dejar de lado los personalismos para trabajar en equipo, por eso y mâ€¦;Sun Jan 31 ;5;5;Pichincha, Ecuador
+Guillermo Lasso;"RT @MarcoAnibal: Voto por AraÃºz se compone:
+
+1 Voto correÃ­sta para detener el desastre nacional
+
+2 Voto no correÃ­sta para detener el desastâ€¦";Sun Jan 31 ;308;835;Tena, Ecuador
+Guillermo Lasso;"@LassoGuillermo @panchojimenezs @JuanPHidalgoC @guido_chiriboga @CesarMongeO Asi?
+Que dijo ud Lasso de la ESTAFA deâ€¦ https://t.co/3SHVAYjGzd";Sun Jan 31 ;0;0;Napo, Ecuador
+Guillermo Lasso;"...los CHIMBADORES FANATICOS DEL NARCO PRÃ“FUGO, 
+a unos se les caen  los pantalones y  a otros seguidores 
+de la LIâ€¦ https://t.co/nzZ5EkwbtP";Sun Jan 31 ;0;0;Pichincha, Ecuador
+Guillermo Lasso;"RT @jorgejhorlfl: ...los CHIMBADORES FANATICOS DEL NARCO PRÃ“FUGO, 
+a unos se les caen  los pantalones y  a otros seguidores 
+de la LISTA 1.â€¦";Sun Jan 31 ;1;1;Latacunga, Ecuador
+Guillermo Lasso;Yo no voto por Lasso por ser la Ãºnica opciÃ³n o porque â€œtocaâ€ , estoy feliz de decir que me siento representado porâ€¦ https://t.co/6AyOxKY1yl;Sun Jan 31 ;0;0;Latacunga, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: ...el 28% que votamos a favor de LASSO en la primera vuelta de ELECCIONES 2017, lo hicimos con la razÃ³n y con lealtad a nâ€¦;Sun Jan 31 ;146;406;Esmeraldas,Ecuador
+Guillermo Lasso;"RT @GabuPsychic: Â¡A 9 dÃ­as de las elecciones!
+Espero que Arauz gane en una sola vuelta para q Carlos Vera se largue del Ecuador, para que Gâ€¦";Sun Jan 31 ;693;1878;Esmeraldas,Ecuador
+Guillermo Lasso;Totalmente cierto. Y ya quiero ir a votar para que esto acabe en una sola vuelta! Que vengan las vacunas y el trabaâ€¦ https://t.co/d6X1Kkn5OY;Sun Jan 31 ;0;0;Esmeraldas,Ecuador
+Guillermo Lasso;"RT @chinogomez14: El voto de Lasso es obligado, es por odio, es por interÃ©s, es por conveniencia.
+El voto de @ecuarauz y @rabascallcarlos eâ€¦";Tue Feb 02 ;42;68;Orellana, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: ...el 28% que votamos a favor de LASSO en la primera vuelta de ELECCIONES 2017, lo hicimos con la razÃ³n y con lealtad a nâ€¦;Tue Feb 02 ;147;407;Orellana, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: @biological_dr @TCE_Ecuador @cnegobec Mientras LASSO propone fortalecer a la FUERZA PÃšBLICA en su lucha contra la delincuâ€¦;Tue Feb 02 ;1;1;Orellana, Ecuador
+Guillermo Lasso;RT @ETacle: Yo no soy seguidor de Guillermo Lasso,  pero, por mi paÃ­s Ecuador,  por mi familia, por mis amigos, por toda la gente que conozâ€¦;Tue Feb 02 ;740;2177;Napo, Ecuador
+Guillermo Lasso;"RT @chinogomez14: El voto de Lasso es obligado, es por odio, es por interÃ©s, es por conveniencia.
+El voto de @ecuarauz y @rabascallcarlos eâ€¦";Tue Feb 02 ;43;71;Napo, Ecuador
+Guillermo Lasso;@AlecCardenas Uyyyyy disculpas , este es el nivel de estos iluminados que cree que Lasso es la soluciÃ³n , BANQUEROâ€¦ https://t.co/f2Hyi3l1n3;Tue Feb 02 ;0;0;Tunguragua,Ecuador
+Guillermo Lasso;"RT @chinogomez14: El voto de Lasso es obligado, es por odio, es por interÃ©s, es por conveniencia.
+El voto de @ecuarauz y @rabascallcarlos eâ€¦";Tue Feb 02 ;44;71;Tunguragua,Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: @janethinostroza Mientras LASSO propone fortalecer a la FUERZA PÃšBLICA en su lucha contra la delincuencia, narcotrÃ¡fico yâ€¦;Tue Feb 02 ;5;15;Tunguragua,Ecuador
+Guillermo Lasso;"RT @FaustoCoboM3: @RevistaSemana Mientras LASSO propone fortalecer a FAMILIAS de SOLDADOS y POLICÃAS en su lucha contra la delincuencia; Reâ€¦";Tue Feb 02 ;8;15;Tunguragua,Ecuador
+Guillermo Lasso;@AlecCardenas Mi presidente Guillermo Lasso.;Tue Feb 02 ;0;0;Quito, Ecuador
+Guillermo Lasso;"RT @FaustoCoboM3: ...el CORREATO en plena GUERRA SUCIA: desinforma con encuestas falsetas!
+
+La realidad es que LASSO cuenta, como BASE, conâ€¦";Tue Feb 02 ;105;245;Quito, Ecuador
+Guillermo Lasso;"RT @jorgejhorlfl: ...los CHIMBADORES FANATICOS DEL NARCO PRÃ“FUGO, 
+a unos se les caen  los pantalones y  a otros seguidores 
+de la LISTA 1.â€¦";Sun Jan 31 ;2;1;Quito, Ecuador
+Guillermo Lasso;RT @MashiRafael: Consejos para los trabajadores a los que los â€œpatronesâ€œ les quieren hacer votar por Lasso y los obligan a presentar la fotâ€¦;Sun Jan 31 ;389;656;Quito, Ecuador
+Guillermo Lasso;RT @KleinerZambrano: Ojo aquÃ­ @LuisVerdesotoo1;Sun Jan 31 ;17;19;Quito, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: @Primicias Mientras LASSO propone fortalecer a la FUERZA PÃšBLICA en su lucha contra la delincuencia, narcotrÃ¡fico y terroâ€¦;Sun Jan 31 ;1;5;Quito, Ecuador
+Guillermo Lasso;@joselo681513 @Literario26 @NelFeRodSan @CarlaMaldonadoP @MauricioPozoEC @juanseroldan @alberto_dahikâ€¦ https://t.co/RwSNdA1Z9G;Sun Jan 31 ;1;10;Quito, Ecuador
+Guillermo Lasso;@ProfesorYo De acuerdo con lo que dice Diego Flores no hay ningÃºn criterio de humano en el paÃ­s les gusta el odio.â€¦ https://t.co/V4UFGumYGF;Sun Jan 31 ;10;1;Guayaquil
+Guillermo Lasso;"RT @MarcoAnibal: Voto por AraÃºz se compone:
+
+1 Voto correÃ­sta para detener el desastre nacional
+
+2 Voto no correÃ­sta para detener el desastâ€¦";Sun Jan 31 ;310;838;Guayaquil
+Guillermo Lasso;@joselo681513 @Literario26 @NelFeRodSan @CarlaMaldonadoP @MauricioPozoEC @juanseroldan @alberto_dahikâ€¦ https://t.co/ornrmVh0ko;Sun Jan 31 ;0;0;Guayaquil
+Guillermo Lasso;RT @ETacle: Yo no soy seguidor de Guillermo Lasso,  pero, por mi paÃ­s Ecuador,  por mi familia, por mis amigos, por toda la gente que conozâ€¦;Tue Feb 02 ;741;2180;Guayaquil
+Guillermo Lasso;"RT @MarcoAnibal: Voto por AraÃºz se compone:
+
+1 Voto correÃ­sta para detener el desastre nacional
+
+2 Voto no correÃ­sta para detener el desastâ€¦";Tue Feb 02 ;311;839;Guayaquil
+Guillermo Lasso;@petrogustavo @Almagro_OEA2015 Posible golpe de estado en Ecuador, que seÃ±or tan mentiroso y falso. Las eleccionesâ€¦ https://t.co/UOGog2zRxA;Tue Feb 02 ;0;0;Guayaquil
+Guillermo Lasso;"RT @chinogomez14: El voto de Lasso es obligado, es por odio, es por interÃ©s, es por conveniencia.
+El voto de @ecuarauz y @rabascallcarlos eâ€¦";Tue Feb 02 ;45;74;Guayaquil
+Guillermo Lasso;LASSO PRESIDENTE EN UNA SOLA VUELTA !!!!!!! ( No coma cuentos ). https://t.co/bwOcBKC4I1;Tue Feb 02 ;0;0;Guayaquil
+Guillermo Lasso;"RT @FaustoCoboM3: @RevistaSemana Mientras LASSO propone fortalecer a FAMILIAS de SOLDADOS y POLICÃAS en su lucha contra la delincuencia; Reâ€¦";Tue Feb 02 ;2;6;Quito, Ecuador
+Guillermo Lasso;"RT @PatricioJijonL1: Optimizar nuestro voto es un deber moral. Defender la democracia, las libertades, la dolarizaciÃ³n; el objetivo centralâ€¦";Tue Feb 02 ;87;177;Quito, Ecuador
+Guillermo Lasso;RT @MashiRafael: Consejos para los trabajadores a los que los â€œpatronesâ€œ les quieren hacer votar por Lasso y los obligan a presentar la fotâ€¦;Tue Feb 02 ;390;657;Quito, Ecuador
+Guillermo Lasso;"RT @FaustoCoboM3: @RevistaSemana Mientras LASSO propone fortalecer a FAMILIAS de SOLDADOS y POLICÃAS en su lucha contra la delincuencia; Reâ€¦";Tue Feb 02 ;3;6;Quito, Ecuador
+Guillermo Lasso;@facho77 @JotacNarvaez @HEBARI85 @Guiller59925959 @LassoGuillermo El que sus aseveraciones no tengan ningÃºn soporteâ€¦ https://t.co/T20VfmiL8M;Tue Feb 02 ;0;0;Cañar, Ecuador
+Guillermo Lasso;RT @IsaCardenasF: Lasso estÃ¡ muy muy lejos de ser el candidato de mi preferencia y estoy segura que si gana habrÃ¡n otros problemas con losâ€¦;Tue Feb 02 ;9;48;Cañar, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: @CuenteroMuisne Mientras LASSO propone fortalecer a la FUERZA PÃšBLICA en su lucha contra la delincuencia, narcotrÃ¡fico yâ€¦;Sun Jan 74;2;3;Guayaquil, Ecuador
+Guillermo Lasso;RT @KELVINGAME3: LASSO PRESIDENTE EN UNA SOLA VUELTA!!! https://t.co/lficwdaef3;Sun Jan 75;31;58;Guayaquil, Ecuador
+Guillermo Lasso;"RT @chinogomez14: El voto de Lasso es obligado, es por odio, es por interÃ©s, es por conveniencia.
+El voto de @ecuarauz y @rabascallcarlos eâ€¦";Sun Jan 76;46;78;Guayaquil, Ecuador
+Guillermo Lasso;RT @KELVINGAME3: LASSO PRESIDENTE EN UNA SOLA VUELTA !!!!!!! ( No coma cuentos ). https://t.co/bwOcBKC4I1;Sun Jan 77;1;0;Guayaquil, Ecuador
+Guillermo Lasso;RT @ALBAMENDOZAPAR1: @CarlosVerareal POR ESO Y  CON MAS FUERZA LASSO PRESIDENTE 21-6;Sun Jan 78;2;7;Cañar, Ecuador
+Guillermo Lasso;@jaimenebotsaadi @LassoGuillermo LASSO PRESIDENTE..;Sun Jan 79;0;0;Cotopaxi, Ecuador
+Guillermo Lasso;"RT @Ana_Lorena_A: Mi presidente es sencillamente maravilloso, pero muchos de ustedes no estÃ¡n listos para esta conversaciÃ³n.
+
+Vamos a levanâ€¦";Sun Jan 80;13;37;Cotopaxi, Ecuador
+Guillermo Lasso;SE LES ACABO LA CORRUPCION !!!        LASSO PRESIDENTE EN UNA SOLA VUELTA !!!!!!! https://t.co/GlsnI6EiqG;Sun Jan 81;0;0;Cotopaxi, Ecuador
+Guillermo Lasso;"RT @chinogomez14: El voto de Lasso es obligado, es por odio, es por interÃ©s, es por conveniencia.
+El voto de @ecuarauz y @rabascallcarlos eâ€¦";Sun Jan 82;47;79;Cotopaxi, Ecuador
+Guillermo Lasso;"RT @chinogomez14: El voto de Lasso es obligado, es por odio, es por interÃ©s, es por conveniencia.
+El voto de @ecuarauz y @rabascallcarlos eâ€¦";Sun Jan 83;48;79;Cotopaxi, Ecuador
+Guillermo Lasso;Mujer inteligente ðŸ‘‡ðŸ» con pasiÃ³n de madre, que busca tener un futuro menos incierto y miserable como pretenden los sâ€¦ https://t.co/7GSGzfkI8j;Sun Jan 84;0;0;Cotopaxi, Ecuador
+Guillermo Lasso;RT @KELVINGAME3: SE LES ACABO LA CORRUPCION !!!        LASSO PRESIDENTE EN UNA SOLA VUELTA !!!!!!! https://t.co/GlsnI6EiqG;Sun Jan 85;1;1;Cotopaxi, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: @playecnoticias @ProfHoax__ @CarlosP05340289 Mientras LASSO propone fortalecer a FAMILIAS de SOLDADOS y POLICÃAS en su luâ€¦;Sun Jan 86;7;15;Cotopaxi, Ecuador
+Guillermo Lasso;"RT @sucocastillo: Lasso reconoce que Moreno ha implementado su plan de gobierno.
+
+Lasso apoyÃ³ el 90% de las leyes presentadas por Moreno, iâ€¦";Mon Feb 01 ;12;13;Pichincha, Ecuador
+Guillermo Lasso;RT @fabriciovelav: AHORA: @ECUATRANSA despidiÃ³ a su gerente, tras la difusiÃ³n de un audio en el que amenazÃ³ con desvincular a sus trabajadoâ€¦;Mon Feb 01 ;935;1873;Pichincha, Ecuador
+Guillermo Lasso;@BurbanoXavier @monadeurdesa Uno ve fotos de gente que parecen inteligentes y luego hacen comentarios como este!!!â€¦ https://t.co/rRHhaoeY4U;Mon Feb 01 ;0;0;Pichincha, Ecuador
+Guillermo Lasso;"RT @ElRebeldeEc: Hora 25. Si despuÃ©s de ver la entrevista al candidato Guillermo Lasso,decides votar por Ã©l; dÃ©jame decirte que estÃ¡s entreâ€¦";Mon Feb 01 ;75;266;Pichincha, Ecuador
+Guillermo Lasso;@LassoSX Estos Ãºltimos dÃ­as de campaÃ±a, TODOS los de la orilla de la DECENCIA, a pesar de algunas diferencias, a VOâ€¦ https://t.co/nRYb4TZwdY;Mon Feb 01;0;0;Pichincha, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: @DannaGa41 Estos Ãºltimos dÃ­as de campaÃ±a, TODOS los de la orilla de la DECENCIA, a pesar de algunas diferencias, a VOTARâ€¦;Mon Feb 01 ;1;1;Pichincha, Ecuador
+Guillermo Lasso;@VillaFernando_ Jaja ya das risa dedicate a hacer campaÃ±a por tu partido o solo eres un relleno para Lasso? HervÃ¡s presidente.;Mon Feb 01 ;0;0;Pichincha, Ecuador
+Guillermo Lasso;@andre_romo Estos Ãºltimos dÃ­as de campaÃ±a, TODOS los de la orilla de la DECENCIA, a pesar de algunas diferencias, aâ€¦ https://t.co/GMnBAqiRTy;Mon Feb 01 ;0;0;Orellana, Ecuador
+Guillermo Lasso;"@andrebernal26 @yakuperezg @NTN24Zoom Ã‰sa es la fija che comisario
+A la voz d Aura Primera
+Decia Patagonio TucumÃ¡nâ€¦ https://t.co/J6f3jrZ7pq";Mon Feb 01 ;0;0;Orellana, Ecuador
+Guillermo Lasso;RT @moonlight_025x: @MashiRafael Ni Lasso Ni Correa, la gente hoy busca el EQUILIBRIO. Todos estamos cansados de los mismo polÃ­tiqueros corâ€¦;Mon Feb 01 ;1;7;Orellana, Ecuador
+Guillermo Lasso;RT @cereceda_elena: @PatricioJijonL1 ðŸ‘ðŸ»ðŸ‘ðŸ»ðŸ‘ðŸ»ðŸ‘ðŸ» LASSO PRESIDENTE!!;Mon Feb 01 ;2;2;Orellana, Ecuador
+Guillermo Lasso;El Ãºltimo manotazo de ahogado. Solo el voto duro de Lasso se va comer ese cuento de la intervenciÃ³n de un grupo terâ€¦ https://t.co/Ay6AflMtYk;Mon Feb 01;0;0;Orellana, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: @pinllocoto Estas elecciones DECIDIMOS entre dos modelos absolutamente opuestos: PROSPERIDAD que representa LASSO, y el oâ€¦;Mon Feb 01;1;0;Orellana, Ecuador
+Guillermo Lasso;"RT @FaustoCoboM3: Mientras el  CORREATO sigue cuenteando sobre VACUNAS, LASSO ya demostrÃ³ eficiencia con su programa""SALVAR VIDAS"" para ayuâ€¦";Mon Feb 01;14;22;Orellana, Ecuador
+Guillermo Lasso;@mlenin81 @CarlosVerareal Y el APAGÃ“N INFORMÃTICO cuando  ganÃ³ Lasso...con mameluco incluido presidente...q pasÃ³??;Mon Feb 01;0;0;Orellana, Ecuador
+Guillermo Lasso;RT @realjuca: Jajajajajajajajajajaja bueno Sra vote por Lasso ese si es un gran consejo verdad? ðŸ¤£ðŸ¤£ðŸ¤£ðŸ¤£;Mon Feb 01;1;4;Guayaquil, Ecuador
+Guillermo Lasso;@ecuadorenvivo Estos Ãºltimos dÃ­as de campaÃ±a, TODOS los de la orilla de la DECENCIA, a pesar de algunas diferenciasâ€¦ https://t.co/DgiSNDgVX3;Mon Feb 01;0;0;Guayaquil, Ecuador
+Guillermo Lasso;@lahoraecuador Estos Ãºltimos dÃ­as de campaÃ±a, TODOS los de la orilla de la DECENCIA, a pesar de algunas diferenciasâ€¦ https://t.co/mjTslgDTKw;Mon Feb 01;0;0;Guayaquil, Ecuador
+Guillermo Lasso;RT @ivonnececiliato: @FrCoronel @Mathews54163026 OjalÃ¡ esos mensajes lleguen a la gente que necesita ser guiada   Tenemos que hacer un trabâ€¦;Mon Feb 01;1;4;Guayaquil, Ecuador
+Guillermo Lasso;"ESTAS SON  PRUEBAS CONTUNDENTES
+QUE EL GRAN PUEBLO ELIGIRA A LASSO  PRESIDENTE Y A LOS SOCIAL CRISTIANOS PARA QUEâ€¦ https://t.co/I3hkT552nP";Mon Feb 01;0;0;Guayaquil, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: @lahoraecuador Estos Ãºltimos dÃ­as de campaÃ±a, TODOS los de la orilla de la DECENCIA, a pesar de algunas diferencias, a VOâ€¦;Mon Feb 01;1;0;Santo Domingo, Ecuador
+Guillermo Lasso;RT @JohnAmezcua5: #Ecuador tiene que avanzar hacia un futuro donde haya trabajo y progreso. No dejemos que Lelo Arauz venga a engaÃ±arnos coâ€¦;Mon Feb 01;4;7;Santo Domingo, Ecuador
+Guillermo Lasso;RT @JohnAmezcua5: #Ecuador tiene que avanzar hacia un futuro donde haya trabajo y progreso. No dejemos que Lelo Arauz venga a engaÃ±arnos coâ€¦;Mon Feb 01;5;7;Santo Domingo, Ecuador
+Yaku PÃ©rez;"RT @Politizadoscom: #Spots | #Elecciones2021
+ 
+-ðŸ™ï¸PaÃ­s: #EcuadorðŸ‡ªðŸ‡¨
+-ðŸ—³ï¸ElecciÃ³n: Presidencial 2âƒ£0âƒ£2âƒ£1ï¸âƒ£
+-ðŸ’â€â™‚ï¸Candidato: .@yakuperezg 
+-ðŸš©Moviâ€¦";Mon Feb 01;1;0;Santo Domingo, Ecuador
+Yaku PÃ©rez;RT @yakuperezg: Nuestras manos nunca se han manchado con actos de corrupciÃ³n, tenemos la capacidad moral para gobernar el paÃ­s con honestidâ€¦;Mon Feb 01;45;139;Santo Domingo, Ecuador
+Yaku PÃ©rez;RT @yakuperezg: Nuestras manos nunca se han manchado con actos de corrupciÃ³n, tenemos la capacidad moral para gobernar el paÃ­s con honestidâ€¦;Mon Feb 01;46;139;Santo Domingo, Ecuador
+Yaku PÃ©rez;"RT @PKnacional18: #RuedaDePrensa  
+Organizaciones sociales ratifican el apoyo a nuestro compaÃ±ero Yaku Perez Guartambel.
+AcompÃ¡Ã±anos 
+#Yakuâ€¦";Mon Feb 01;4;13;Santo Domingo, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: La protecciÃ³n de la naturaleza serÃ¡ un eje principal en nuestro gobierno.
+
+#ClaroQueSePuede
+#YakuPresidente
+#YakuEs https:/â€¦";Mon Feb 01;10;39;Santo Domingo, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Â¡Por eso #Yaku es la mejor opciÃ³n!
+
+#YakuPresidente
+#ClaroQueSePuede
+#YakuEs https://t.co/RVzsO83q5k";Mon Feb 01;63;205;Guayaquil
+Yaku PÃ©rez;RT @yakuperezg: Hoy a partir de las 10:00 pm, te invito a seguir en vivo mi entrevista en @CNNEE para conocer nuestra propuesta de campaÃ±a.â€¦;Mon Feb 01;14;38;Guayaquil
+Yaku PÃ©rez;RT @yakuperezg: Hoy a partir de las 10:00 pm, te invito a seguir en vivo mi entrevista en @CNNEE para conocer nuestra propuesta de campaÃ±a.â€¦;Tue Feb 02 ;15;40;Guayaquil, Ecuador
+Yaku PÃ©rez;RT @pametroya: Soy feminista y activista LGBTI-DDHH. Desde la Asamblea legislaremos a favor de mujeres, niÃ±ez y adolescencia y personas LGBâ€¦;Tue Feb 02 ;9;16;Guayaquil, Ecuador
+Yaku PÃ©rez;RT @yakuperezg: Hoy a partir de las 10:00 pm, te invito a seguir en vivo mi entrevista en @CNNEE para conocer nuestra propuesta de campaÃ±a.â€¦;Tue Feb 02 ;16;41;Guayaquil, Ecuador
+Yaku PÃ©rez;"Â¡Caravana de cierre de campaÃ±a en Quito ðŸš²ðŸš—!
+
+ðŸ—“ MiÃ©rcoles, 3 de febrero
+ðŸ  Parroquia Cutuglagua (salida)
+â°09:00 amâ€¦ https://t.co/XILenoOvfL";Tue Feb 02 ;0;0;Orellana, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Â¡Caravana de cierre de campaÃ±a en Quito ðŸš²ðŸš—!
+
+ðŸ—“ MiÃ©rcoles, 3 de febrero
+ðŸ  Parroquia Cutuglagua (salida)
+â°09:00 am
+
+#ClaroQueâ€¦";Tue Feb 02 ;1;1;Orellana, Ecuador
+Yaku PÃ©rez;Punto de llegada!!!! CARONDELET....para rendir pleitesÃ­a al SÃTRAPA LENÃN MORENO. Su mayor CÃ“MPLICE;Wed Feb 03;0;0;Orellana, Ecuador
+Yaku PÃ©rez;@FrCoronel Y si gana #YakuPresidente, por que en segunda vuelta es el Ãºnico que le gana a Arauz, dese una oportunidâ€¦ https://t.co/XYmvJqSD9v;Wed Feb 03;0;0;Orellana, Ecuador
+Yaku PÃ©rez;@marginalismo @FrCoronel El votar por Lasso solo les condenarÃ¡, por que en segunda vuelta el Ãºnico que le gana a Arauz es #YakuPresidente.;Wed Feb 03 ;0;0;Orellana, Ecuador
+Yaku PÃ©rez;@vesand @CNNEE @soyfdelrincon @yakuperezg Ignorenlo contagiado con #CorreaVirus mÃ¡s mortal que #Covid_19â€¦ https://t.co/LGYi17mKPS;Wed Feb 03 ;0;0;Pichincha, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: La protecciÃ³n de la naturaleza serÃ¡ un eje principal en nuestro gobierno.
+
+#ClaroQueSePuede
+#YakuPresidente
+#YakuEs https:/â€¦";Wed Feb 03;11;41;Pichincha, Ecuador
+Yaku PÃ©rez;RT @Leo_MenesesPozo: Vamos firmes esta vez vamos por un gobierno del pueblo #YakuPresidente #ClaroQueSePuede @yakuperezg @PK18CARCHI @isaccâ€¦;Tue Feb 02 ;9;9;Pichincha, Ecuador
+Yaku PÃ©rez;#CapacidadParaCambiar pero de escenario, ðŸŽ€â™¿ðŸ˜•;Tue Feb 02 ;0;0;Pichincha, Ecuador
+Yaku PÃ©rez;"@JSMARTINEZG @CNNEE @soyfdelrincon @yakuperezg Contagiado con #CorreaVirus
+#ClaroQueSePuede #YakuPresidente";Tue Feb 02 ;0;0;Azuay, Ecuador
+Yaku PÃ©rez;RT @mayracriss: #ClaroQueSePuede Tener un paÃ­s mÃ¡s justo, donde nuestros representantes sean hombres y mujeres con capacidad, honestidad yâ€¦;Tue Feb 02 ;6;8;Azuay, Ecuador
+Yaku PÃ©rez;@leonard_arisa @CNNEE @soyfdelrincon @yakuperezg AsÃ­ son de canallas como este Contagiado con #CorreaVirus campeoneâ€¦ https://t.co/guHFLrKJlU;Tue Feb 02 ;4;0;Azuay, Ecuador
+Yaku PÃ©rez;"Â¡Caravana de cierre de campaÃ±a en Quito ðŸš²ðŸš—!
+
+ðŸ—“ MiÃ©rcoles, 3 de febrero
+ðŸ  Parroquia Cutuglagua (salida)
+â°09:00 amâ€¦ https://t.co/cYkb0MtrdC";Tue Feb 02 ;5;0;Azuay, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Â¡Caravana de cierre de campaÃ±a en Quito ðŸš²ðŸš—!
+
+ðŸ—“ MiÃ©rcoles, 3 de febrero
+ðŸ  Parroquia Cutuglagua (salida)
+â°09:00 am
+
+#ClaroQueâ€¦";Tue Feb 02 ;1;2;Azuay, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Â¡Caravana de cierre de campaÃ±a en Quito ðŸš²ðŸš—!
+
+ðŸ—“ MiÃ©rcoles, 3 de febrero
+ðŸ  Parroquia Cutuglagua (salida)
+â°09:00 am
+
+#ClaroQueâ€¦";Wed Feb 03 ;2;4;Azuay, Ecuador
+Yaku PÃ©rez;Yaku ha dejado un gran precedente para el Movimiento IndÃ­gena, estoy super feliz por esto y me doy por servida. Yakâ€¦ https://t.co/NfzAfmw95x;Wed Feb 03 ;0;0;Azuay, Ecuador
+Yaku PÃ©rez;RT @yakuperezg: Nuestras manos nunca se han manchado con actos de corrupciÃ³n, tenemos la capacidad moral para gobernar el paÃ­s con honestidâ€¦;Wed Feb 03 ;47;145;Azuay, Ecuador
+Yaku PÃ©rez;"RT @PKnacional18: #RuedaDePrensa  
+Organizaciones sociales ratifican el apoyo a nuestro compaÃ±ero Yaku Perez Guartambel.
+AcompÃ¡Ã±anos 
+#Yakuâ€¦";Sun Jan 31 ;5;14;Pichincha, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Â¡Caravana de cierre de campaÃ±a en Quito ðŸš²ðŸš—!
+
+ðŸ—“ MiÃ©rcoles, 3 de febrero
+ðŸ  Parroquia Cutuglagua (salida)
+â°09:00 am
+
+#ClaroQueâ€¦";Sun Jan 31 ;3;7;Pichincha, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Â¡Caravana de cierre de campaÃ±a en Quito ðŸš²ðŸš—!
+
+ðŸ—“ MiÃ©rcoles, 3 de febrero
+ðŸ  Parroquia Cutuglagua (salida)
+â°09:00 am
+
+#ClaroQueâ€¦";Sun Jan 31 ;4;8;Pichincha, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Â¡Caravana de cierre de campaÃ±a en Quito ðŸš²ðŸš—!
+
+ðŸ—“ MiÃ©rcoles, 3 de febrero
+ðŸ  Parroquia Cutuglagua (salida)
+â°09:00 am
+
+#ClaroQueâ€¦";Sun Jan 31 ;5;8;Pichincha, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Â¡Por eso #Yaku es la mejor opciÃ³n!
+
+#YakuPresidente
+#ClaroQueSePuede
+#YakuEs https://t.co/RVzsO83q5k";Sun Jan 31 ;64;207;Pichincha, Ecuador
+Yaku PÃ©rez;RT @yakuperezg: Hoy a partir de las 10:00 pm, te invito a seguir en vivo mi entrevista en @CNNEE para conocer nuestra propuesta de campaÃ±a.â€¦;Sun Jan 31 ;17;45;Pichincha, Ecuador
+Yaku PÃ©rez;@RiksinakuyEc pasa la voz;Sun Jan 31 ;0;0;Pichincha, Ecuador
+Yaku PÃ©rez;RT @yakuperezg: Hoy a partir de las 10:00 pm, te invito a seguir en vivo mi entrevista en @CNNEE para conocer nuestra propuesta de campaÃ±a.â€¦;Sun Jan 31 ;17;46;Pichincha, Ecuador
+Yaku PÃ©rez;"@virnacedenoe #YakuPresidente #VirnaVicepresidenta
+#ClaroQueSePuede";Sun Jan 31 ;0;0;Pichincha, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Agenda de medios ðŸŽ™ï¸ðŸ“»
+
+Estamos a pocos dÃ­as de celebrar el proceso democrÃ¡tico de una elecciÃ³n presidencial, por eso te inviâ€¦";Sun Jan 31 ;16;54;Pichincha, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Se viene un gobierno de respeto y uniÃ³n para #Ecuador.
+
+#ClaroQueSePuede
+#YakuPresidente
+#YakuEs https://t.co/W5P6WJCUtA";Sun Jan 31 ;26;58;Pichincha, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Con transparencia y manos limpias sabremos cambiar el ritmo de nuestro paÃ­s.
+
+#ClaroQueSePuede
+#YakuPresidente https://t.coâ€¦";Sun Jan 31 ;27;83;Pichincha, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Somos la Ãºnica opciÃ³n para vencer al correÃ­smo. Este 7 de febrero votemos con consciencia y convicciÃ³n.
+
+#ClaroQueSePuedeâ€¦";Thur Mar 04;61;178;Pichincha, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: @luisevivanco Estos Ãºltimos dÃ­as de campaÃ±a, TODOS los de la orilla de la DECENCIA, a pesar de algunas diferencias, a VOTâ€¦;Thur Mar 04;4;9;Pichincha, Ecuador
+Guillermo Lasso;RT @aleperaltaale26: Hay que hacer voto Ãºtil, #LassoPresidente2021 es la opciÃ³n para quienes quieren evitar que Lelo Arauz conduzca al paÃ­sâ€¦;Thur Mar 04;5;7;Pichincha, Ecuador
+Guillermo Lasso;RT @aleperaltaale26: Hay que hacer voto Ãºtil, #LassoPresidente2021 es la opciÃ³n para quienes quieren evitar que Lelo Arauz conduzca al paÃ­sâ€¦;Thur Mar 04;6;7;Pichincha, Ecuador
+Guillermo Lasso;RT @finamunizaga: @RominaSotomayo2 @ArellaProano Lasso Presidente vamos por el Cambio;Thur Mar 04;1;1;Imbabura,Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: @RaGecuador En estas elecciones DECIDIMOS entre DOS MODELOS: la continuaciÃ³n de 14 aÃ±os de CORRUPCIÃ“N DEL CORREATO o el Câ€¦;Thur Mar 04;1;2;Imbabura,Ecuador
+Guillermo Lasso;@tinocotania LASSO PRESIDENTE;Thur Mar 04;1;1;Imbabura,Ecuador
+Guillermo Lasso;Mi voto serÃ¡ por Herbas ha sido el que mejor propuestas hizo aunque se que no va ganar pero si hay segunda vuelta qâ€¦ https://t.co/G3gPLHBe3q;Thur Mar 04;10;1;Imbabura,Ecuador
+Guillermo Lasso;SeÃ±or.. recuerde el salvataje bancario del 99.. y la fuga de capitales a paraÃ­sos fiscales... Todo 1.. 1.. 1..;Thur Mar 04;5;10;Imbabura,Ecuador
+Guillermo Lasso;RT @semarco: El voto razonable es por  @LassoGuillermo. A los que piensan votar nulo,  les pido que se den una oportunidad votando por Lassâ€¦;Thur Mar 04;235;620; El Oro, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: Mientras LASSO compromete firme respaldo a POLICÃAS y MILITARES en la lucha contra la delincuencia, narcotrÃ¡fico y terrorâ€¦;Thur Mar 04;168;341; El Oro, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: Mientras LASSO compromete firme respaldo a POLICÃAS y MILITARES en la lucha contra la delincuencia, narcotrÃ¡fico y terrorâ€¦;Thur Mar 04;169;340;Pichincha, Ecuador
+Guillermo Lasso;@Fuckinwasteland @luisevivanco @LaPosta_Ecu @AnderssonBoscan El correÃ­smo tiene voto duro, asegurado el grueso de sâ€¦ https://t.co/7Dkazn81Sc;Fri Mar 05 ;1;1;Pichincha, Ecuador
+Guillermo Lasso;@_davidcando_;Fri Mar 05 ;1;1; El Oro, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: Mientras LASSO compromete firme respaldo a POLICÃAS y MILITARES en la lucha contra la delincuencia, narcotrÃ¡fico y terrorâ€¦;Fri Mar 05 ;170;340; El Oro, Ecuador
+Guillermo Lasso;RT @ETacle: Yo quiero vivir y morir de viejo en mi Ecuador, no quiero ser expulsado de mi paÃ­s por Lelo, correa y toda su banda comunista!â€¦;Fri Mar 05 ;40;88; El Oro, Ecuador
+Guillermo Lasso;@relicheandres @rabascallcarlos Ya saldrÃ¡ toda la pipol del municipio de Guayaquil a apoyar en el cierre de campaÃ±aâ€¦ https://t.co/E1FFbMrwyu;Fri Mar 05 ;0;1; El Oro, Ecuador
+Guillermo Lasso;@LassoGuillermo Guillermo lasso nunca sera presidente rata igual q bucaram;Fri Mar 05 ;1;0; El Oro, Ecuador
+Guillermo Lasso;@MorenaMia2020 @LassoGuillermo Jjajaja q excelente! Lasso presidente! Es la Ãºnica opciÃ³n;Fri Mar 05 ;0;1;Tunguragua,Ecuador
+Guillermo Lasso;RT @VictorCREO: Una verdadera VergÃ¼enza de Alvaro Noboa, pide votar por Arauz. Esto habla que Ã©l tambiÃ©n es parte de esta secta criminal. Nâ€¦;Fri Mar 05 ;3;3;Tunguragua,Ecuador
+Guillermo Lasso;IncreÃ­ble ðŸ¤£ re contra cÃ­nico;Fri Mar 05 ;0;2;Guayaquil
+Guillermo Lasso;- Hola, quisiera hablarte de los beneficios de votar por Lasso para recuperar la libertad de expresiÃ³n y pensamientâ€¦ https://t.co/oyIavtDg4U;Fri Mar 05 ;1;2;Guayaquil
+Guillermo Lasso;RT @ElRebeldeEc: Debo aclarar una vez mÃ¡s que no soy â€œLassistaâ€ nunca lo he sido. Pero es el Ãºnico candidato capaz y con posibilidades de dâ€¦;Fri Mar 05 ;340;1085;Guayaquil
+Guillermo Lasso;@AndrsValarezo6 @Soylapaw Lasso Presidente una sola vuelta;Fri Mar 05 ;2;2;Tunguragua,Ecuador
+Guillermo Lasso;RT @ElRebeldeEc: Debo aclarar una vez mÃ¡s que no soy â€œLassistaâ€ nunca lo he sido. Pero es el Ãºnico candidato capaz y con posibilidades de dâ€¦;Fri Mar 05 ;341;1085;Guayaquil, Ecuador
+Guillermo Lasso;Hasta Bucaram les trata como los perros que son @luisevivanco @AnderssonBoscan;Fri Mar 05 ;1;2;Guayaquil, Ecuador
+Guillermo Lasso;Y efectivamente es lo que puede suceder si la gente desperdicia su voto eligiendo a alguien que NO tiene oportunidaâ€¦ https://t.co/mtnVomVJ2X;Fri Mar 05 ;1;3;Guayaquil, Ecuador
+Guillermo Lasso;"RT @CondorECUADOR: De buena fuente, con nÃºmeros claros y cifras duras...PÃ©rez y Lasso en un empate tÃ©cnico por el 2do puesto.
+Si no hay nadâ€¦";Fri Mar 05 ;18;47;Tunguragua,Ecuador
+Guillermo Lasso;RT @JohnAmezcua5: #Ecuador tiene que avanzar hacia un futuro donde haya trabajo y progreso. No dejemos que Lelo Arauz venga a engaÃ±arnos coâ€¦;Sat Mar 06 ;6;11;Tunguragua,Ecuador
+Guillermo Lasso;RT @JohnAmezcua5: #Ecuador tiene que avanzar hacia un futuro donde haya trabajo y progreso. No dejemos que Lelo Arauz venga a engaÃ±arnos coâ€¦;Sat Mar 06 ;7;11;Tunguragua,Ecuador
+Guillermo Lasso;No es cuento, y muchos ecuatorianos lo saben, por eso nunca sera presidente,;Sat Mar 06 ;3;3; El Oro, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: Mientras LASSO compromete firme respaldo a POLICÃAS y MILITARES en la lucha contra la delincuencia, narcotrÃ¡fico y terrorâ€¦;Sat Mar 06 ;171;341;Tunguragua,Ecuador
+Guillermo Lasso;RT @finamunizaga: @AndrsValarezo6 @Soylapaw Lasso Presidente una sola vuelta;Sat Mar 06 ;1;2; El Oro, Ecuador
+Guillermo Lasso;RT @Stevenneira: Y efectivamente es lo que puede suceder si la gente desperdicia su voto eligiendo a alguien que NO tiene oportunidades deâ€¦;Sat Mar 06 ;1;1;Tunguragua,Ecuador
+Guillermo Lasso;RT @hijadeivan: Los que estÃ¡n pensando en votar por Hervas Romero Lucio y el resto q no tienen ninguna posibilidad en estas elecciones pienâ€¦;Sat Mar 06 ;320;774; El Oro, Ecuador
+Guillermo Lasso;RT @finamunizaga: @AndrsValarezo6 @Soylapaw Lasso Presidente una sola vuelta;Sat Mar 06 ;2;3;Guayaquil, Ecuador
+Guillermo Lasso;"RT @AndrsValarezo6: @LassoGuillermo
+PRESIDENTE UNA SOLA VUELTA CON DON GUILLERMO LASSO
+@KELVINGAME3
+@DejemosM
+@albert_luisin @joseivangarguâ€¦";Sun Mar 07;4;5;Tunguragua,Ecuador
+Guillermo Lasso;RT @VictorCREO: Una verdadera VergÃ¼enza de Alvaro Noboa, pide votar por Arauz. Esto habla que Ã©l tambiÃ©n es parte de esta secta criminal. Nâ€¦;Sun Mar 07;4;3;Tunguragua,Ecuador
+Guillermo Lasso;"RT @ElRebeldeEc: Hora 25. Si despuÃ©s de ver la entrevista al candidato Guillermo Lasso,decides votar por Ã©l; dÃ©jame decirte que estÃ¡s entreâ€¦";Sun Mar 07;76;273;Loja
+Guillermo Lasso;"OFERTA DE LASSO AFECTARÃA AL SECTOR DE LA PRODUCCIÃ“N
+
+Bruno Leone, presidente de la #CÃ¡maraNacionalPesquera, manifeâ€¦ https://t.co/oU4g4hawq6";Sun Mar 07;0;0;Tunguragua,Ecuador
+Guillermo Lasso;@hijadeivan @seejaycuervo @luisevivanco Siiiii Lasso Presidente;Sun Mar 07;3;0;Loja
+Guillermo Lasso;RT @VictorCREO: Una verdadera VergÃ¼enza de Alvaro Noboa, pide votar por Arauz. Esto habla que Ã©l tambiÃ©n es parte de esta secta criminal. Nâ€¦;Sun Mar 07;5;3;Tunguragua,Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: LASSO es la PESADILLA de narco gobiernos del socialismo del siglo XXI que buscan PODER e IMPUNIDAD, comprando candidatosâ€¦;Sun Mar 07;242;552;Machala-El Oro-Ecuador
+Guillermo Lasso;ðŸ‡ªðŸ‡¨El Gobierno de #LassoEsMoreno cumpliÃ³ al 100% la receta neoliberal, ecuatorianos, la derecha encabezada porâ€¦ https://t.co/TBnLvo5ea6;Sun Mar 07;5;0;Loja, Ecuador
+Guillermo Lasso;"Da pesar que tanta gente diga que estÃ¡ indignada por la situaciÃ³n del paÃ­s, que dicen ""votar por lo seguro"" (Lassoâ€¦ https://t.co/fm6OQLa72m";Sun Mar 07;1;1;Tunguragua,Ecuador
+Guillermo Lasso;Por tus hijos y por los mÃ­os , LASSO PRESIDENTE , dÃ©mosle un futuro !;Sun Mar 07;6;1;Tunguragua,Ecuador
+Guillermo Lasso;Guerra de encuestadoras ðŸ˜‚ðŸ˜‚ðŸ˜‚ðŸ˜‚ðŸ˜‚;Sun Mar 07;0;0;Tunguragua,Ecuador
+Guillermo Lasso;RT @Stevenneira: Y efectivamente es lo que puede suceder si la gente desperdicia su voto eligiendo a alguien que NO tiene oportunidades deâ€¦;Sun Mar 07;2;3;Loja
+Guillermo Lasso;@CarlosVerareal Estas elecciones DECIDIMOS entre dos modelos absolutamente opuestos: PROSPERIDAD que representa LASâ€¦ https://t.co/ddamCXQmo0;Sun Mar 07;0;1;Tunguragua,Ecuador
+Guillermo Lasso;RT @VictorCREO: Una verdadera VergÃ¼enza de Alvaro Noboa, pide votar por Arauz. Esto habla que Ã©l tambiÃ©n es parte de esta secta criminal. Nâ€¦;Sun Mar 07;6;3;Tunguragua,Ecuador
+Guillermo Lasso;Es q no me entra en la cabeza que Arauz pueda llegar a ser presidente! SentirÃ­a vergÃ¼enza q ese lelo sea el represeâ€¦ https://t.co/ApmkLXaQXm;Mon Mar 08 ;10;0;Guayaquil
+Guillermo Lasso;@migueltobarf Estos Ãºltimos dÃ­as de campaÃ±a, TODOS los de la orilla de la DECENCIA, a pesar de algunas diferencias,â€¦ https://t.co/G9rNca9W7O;Mon Mar 08 ;0;1;Tunguragua,Ecuador
+Guillermo Lasso;@luisevivanco El ladronzuelo Correa estÃ¡ desesperado. No quiere dejar escapar la oportunidad de impunidad que le poâ€¦ https://t.co/Ll4XWwazc6;Mon Mar 08 ;1;0;Pastaza,Ecuador
+Guillermo Lasso;RT @hijadeivan: Los que estÃ¡n pensando en votar por Hervas Romero Lucio y el resto q no tienen ninguna posibilidad en estas elecciones pienâ€¦;Mon Mar 08 ;321;776;Pastaza,Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: Mientras LASSO compromete firme respaldo a POLICÃAS y MILITARES en la lucha contra la delincuencia, narcotrÃ¡fico y terrorâ€¦;Mon Mar 08 ;172;345;Pastaza,Ecuador
+Guillermo Lasso;@migueltobarf LASSO PRESIDENTE. https://t.co/z39edY6mVb;Mon Mar 08 ;1;0;Pichincha, Ecuador
+Guillermo Lasso;"RT @pencaladah: La gente debe decidir su voto en libertad, pero informados. 
+
+Aunque no guste, solo 3 candidatos tienen opciÃ³n de ganar. Elâ€¦";Mon Mar 08 ;13;48;Pastaza,Ecuador
+Guillermo Lasso;@LassoGuillermo @JuanPHidalgoC @MLAlcivar LASSO PRESIDENTE.  BENDICIONES;Mon Mar 08 ;1;0;Pichincha, Ecuador
+Guillermo Lasso;RT @FaustoCoboM3: @CarlosVerareal Estas elecciones DECIDIMOS entre dos modelos absolutamente opuestos: PROSPERIDAD que representa LASSO, yâ€¦;Mon Mar 08 ;1;0;Pastaza,Ecuador
+Guillermo Lasso;@eluniversocom @hugopinedap Estos Ãºltimos dÃ­as de campaÃ±a, TODOS los de la orilla de la DECENCIA, a pesar de algunaâ€¦ https://t.co/okxIEoiGr2;Mon Mar 08 ;0;2;Pastaza,Ecuador
+Yaku PÃ©rez;#ClaroQueSePuede https://t.co/qYMcXfCkZo;Thur Mar 04;0;0;Pichincha, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Ecuador se convertirÃ¡ en una potencia ecolÃ³gica con una economÃ­a sostenible.
+
+Conoce nuestra plan de trabajo completo: httpâ€¦";Thur Mar 04;28;77;Guayaquil, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Â¿Creen que es justo que gastemos $979.665 dÃ³lares en sueldos vitalicios para presidentes y vicepresidentes?
+
+El servir a laâ€¦";Thur Mar 04;31;126;Pichincha.Ecuador
+Yaku PÃ©rez;"RT @geovanni_atari: Gracias por el gran apoyo de Santo Domingo de los TsÃ¡chilas 
+#YakuPresidente 
+#ClaroQueSePuede 
+#GeovanniALaAsamblea htâ€¦";Thur Mar 04;9;14;Pichincha.Ecuador
+Yaku PÃ©rez;"RT @MarceManosalvas: Futurama ya lo predijo...
+
+Yaku Perez Guartambel Presidente
+
+Inauguraremos la honestidad...
+
+@yakuperezg
+#YakuPresidenâ€¦";Thur Mar 04;12;12;Pichincha.Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Â¿Creen que es justo que gastemos $979.665 dÃ³lares en sueldos vitalicios para presidentes y vicepresidentes?
+
+El servir a laâ€¦";Thur Mar 04;32;129;Pichincha.Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Â¿Creen que es justo que gastemos $979.665 dÃ³lares en sueldos vitalicios para presidentes y vicepresidentes?
+
+El servir a laâ€¦";Thur Mar 04;33;129;Pichincha.Ecuador
+Yaku PÃ©rez;"RT @VAndresQuishpe: Y en esta recta final me llevo en cada recorrido el cariÃ±o de mi pueblo â™¥ï¸ mil gracias. @UnidadPopularUP
+
+Lo demÃ¡s pÃ³ngâ€¦";Thur Mar 04;6;7;Zamora Chinchipe, Ecuador
+Yaku PÃ©rez;RT @pametroya: Propuesta 6: Leyes para sancionar el acoso y la violencia en el espacio digital: â€œLey Olimpiaâ€ y â€œLey Ingridâ€ ðŸ‘‰ðŸ¼ https://t.câ€¦;Thur Mar 04;2;5;Zamora Chinchipe, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Â¿Creen que es justo que gastemos $979.665 dÃ³lares en sueldos vitalicios para presidentes y vicepresidentes?
+
+El servir a laâ€¦";Thur Mar 04;34;133;Loja, Ecuador
+Yaku PÃ©rez;RT @yakuperezg: Juntos batallaremos por controlar el cambio climÃ¡tico, fomentaremos el consumo de productos que no provoquen poluciÃ³n paraâ€¦;Fri Mar 05 ;8;20;Loja, Ecuador
+Yaku PÃ©rez;"RT @yakuperezg: Â¿Creen que es justo que gastemos $979.665 dÃ³lares en sueldos vitalicios para presidentes y vicepresidentes?
+
+El servir a laâ€¦";Fri Mar 05 ;35;134;Loja, Ecuador
+Yaku PÃ©rez;"Â¡Sin pretextos! Cambia el pero por el puedo AHORA
+#ClaroQueSePuede âœŒ
+#ManzanilloSomosTodos https://t.co/UBmlPivWfM";Fri Mar 05 ;35;20;Loja, Ecuador
+Yaku PÃ©rez;Lo repito Manzanillo por donde lo veamos es ESPECTACULAR, Manzanillo Somos Todos vamos por la TransformaciÃ³n de nueâ€¦ https://t.co/bzGDPHjl5s;Fri Mar 05 ;35;20;Loja, Ecuador
+Yaku PÃ©rez;#ClaroQueSePuede âœŒï¸ðŸ‡»ðŸ‡³ https://t.co/Z0omR81fkF;Fri Mar 05 ;35;20;Loja, Ecuador
+Yaku PÃ©rez;#ClaroQueSePuede âœŒï¸ðŸ‡»ðŸ‡³ https://t.co/6YTJXHJsOt;Fri Mar 05 ;35;20;Loja, Ecuador
+Yaku PÃ©rez;https://t.co/aNxcFlRRZb;Fri Mar 05 ;35;20;Zamora Chinchipe, Ecuador
+Yaku PÃ©rez;https://t.co/4BYlBXB6Xi;Sat Mar 06 ;35;20;Zamora Chinchipe, Ecuador
+Yaku PÃ©rez;https://t.co/5G8fAQOdzm;Sat Mar 06 ;35;20;Zamora Chinchipe, Ecuador
+Yaku PÃ©rez;https://t.co/9CqXbihOFx;Sat Mar 06 ;35;20;Zamora Chinchipe, Ecuador
+Yaku PÃ©rez;https://t.co/jWz7RwqC2S;Sat Mar 06 ;35;20;Zamora Chinchipe, Ecuador
+Yaku PÃ©rez;https://t.co/WzS7Z7hDqD;Sat Mar 06 ;35;3;Zamora Chinchipe, Ecuador
+Yaku PÃ©rez;https://t.co/UZr4L2d4ls;Sat Mar 06 ;35;3;Zamora Chinchipe, Ecuador
+Yaku PÃ©rez;Cuanta sabidurÃ­a popular!!!!!  Este 7 de febrero vamos a inaugurar la honestidad #MinkaPorLaVida #YakuPresidente https://t.co/ohT2KCPcVv;Sat Mar 06 ;35;3;Zamora Chinchipe, Ecuador
+Yaku PÃ©rez;"âš–ï¸ðŸ’µ El dinero del pueblo es sagrado. Fiscalizaremos los recursos administrados por los gobiernos seccionales.
+Esteâ€¦ https://t.co/noVkjWbvez";Sun Mar 07;0;3;Zamora Chinchipe, Ecuador
+Yaku PÃ©rez;RT @JRE_Ecuador: Los #EstudiantesALaAsamblea vamos a cambiar la historia del #Ecuador, y conseguir un futuro mejor para el paÃ­s. Con Yaku,â€¦;Sun Mar 07;2;3;Guayaquil
+Yaku PÃ©rez;"RT @geovanni_atari: #ClaroQueSePuede con la fuerza del pueblo decidido, cambiaremos el #Ecuador
+#SoloElPuebloSalvaAlPueblo #YakuPresidenteâ€¦";Sun Mar 07;3;1;Guayaquil
+Yaku PÃ©rez;"Clausura de la FSM #FSM2021 #WSF2021 https://t.co/hSEXAl2VK2 a travÃ©s de @FacebookWatch #ClaroQueSePuede
+Yaku Presiâ€¦ https://t.co/tOe9mPf8UF";Sun Mar 07;5;2;Guayaquil
+Yaku PÃ©rez;"Clausura de la FSM #FSM2021 #WSF2021 https://t.co/hSEXAl2VK2 a travÃ©s de @FacebookWatch #ClaroQueSePuede
+Yaku Presiâ€¦ https://t.co/tOe9mPf8UF";Sun Mar 07;1;3;Guayaquil
+Yaku PÃ©rez; comenzamos nuestra #MinkaPorLaVida;Sun Mar 07;1;0;Guayaquil
+Yaku PÃ©rez;"RT @yakuperezg: queremos un gobierno del pueblo para el pueblo! #Yaku #segunda
+
+#ClaroQueSePuede
+#YakuPresidente
+#YakuEs https://t.co/oAyfHOZrâ€¦";Sun Mar 07;2;4;Guayaquil
+Yaku PÃ©rez;"RT @yakuperezg:injusticia tendremos un gobierno del pueblo para el pueblo!
+
+#ClaroQueSePuede
+#YakuPresidente
+#YakuEs https://t.co/oAyfHOZrâ€¦";Sun Mar 07;3;5;Guayaquil
+Yaku PÃ©rez;"RT @yakuperezg: Â¡En 7 dÃ­as tendremos un gobierno del pueblo para el pueblo!
+
+#ClaroQueSePuede
+#YakuPresidente
+#YakuEs https://t.co/oAyfHOZrâ€¦";Sun Mar 07;4;6;Guayaquil
+Yaku PÃ©rez;"Clausura de la FSM #FSM2021 #WSF2021 https://t.co/hSEXAl2VK2 a travÃ©s de @FacebookWatch #ClaroQueSePuede
+Yaku Presiâ€¦ https://t.co/tOe9mPf8UF";Sun Mar 07;5;10;Guayaquil
+Yaku PÃ©rez;"Se necesita ""un Decreto presidencial"", el ahorro, para garantizar los pagos a los ""jubilados"".";Sun Mar 07;10;2;Pichincha, Ecuador
+Yaku PÃ©rez;La #MinkaPorLaVida se sello hoy en Cayambe..... #Yaku https://t.co/hrcO1rqrkQ;Sun Mar 07;0;1;Guayaquil-Ecuador
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
